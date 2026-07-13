@@ -1,0 +1,91 @@
+customer_id,customer_name,city,region,customer_type,signup_date,credit_segment
+C001,Gallery_001,Athens,Attica,Gallery,2023-04-13,low_risk
+C002,Frame_002,Veria,Central Macedonia,Frame shop,2024-03-11,medium_risk
+C003,Home_003,Patra,Western Greece,Home decor store,2025-05-10,low_risk
+C004,Frame_004,Piraeus,Attica,Frame shop,2023-09-28,medium_risk
+C005,Gallery_005,Patra,Western Greece,Gallery,2023-04-17,medium_risk
+C006,Frame_006,Heraklion,Crete,Frame shop,2023-03-13,low_risk
+C007,Home_007,Piraeus,Attica,Home decor store,2024-12-01,low_risk
+C008,Gift_008,Thessaloniki,Central Macedonia,Gift shop,2023-01-21,low_risk
+C009,Frame_009,Peristeri,Attica,Frame shop,2024-09-06,medium_risk
+C010,Gallery_010,Agrinio,Western Greece,Gallery,2023-05-02,medium_risk
+C011,Gift_011,Patra,Western Greece,Gift shop,2024-04-11,low_risk
+C012,Gallery_012,Agrinio,Western Greece,Gallery,2023-08-03,medium_risk
+C013,Frame_013,Trikala,Thessaly,Frame shop,2023-11-27,low_risk
+C014,Gift_014,Katerini,Central Macedonia,Gift shop,2024-04-03,high_risk
+C015,Frame_015,Peristeri,Attica,Frame shop,2023-03-29,medium_risk
+C016,Frame_016,Larisa,Thessaly,Frame shop,2024-01-08,low_risk
+C017,Gift_017,Trikala,Thessaly,Gift shop,2023-04-10,medium_risk
+C018,Frame_018,Pyrgos,Western Greece,Frame shop,2025-05-21,medium_risk
+C019,Frame_019,Katerini,Central Macedonia,Frame shop,2024-10-25,high_risk
+C020,Home_020,Patra,Western Greece,Home decor store,2023-05-11,medium_risk
+C021,Gallery_021,Piraeus,Attica,Gallery,2024-10-23,medium_risk
+C022,Frame_022,Chania,Crete,Frame shop,2023-11-05,high_risk
+C023,Frame_023,Pyrgos,Western Greece,Frame shop,2025-02-08,medium_risk
+C024,Home_024,Rethymno,Crete,Home decor store,2023-12-10,low_risk
+C025,Home_025,Veria,Central Macedonia,Home decor store,2024-05-06,low_risk
+C026,Gift_026,Agrinio,Western Greece,Gift shop,2024-02-18,low_risk
+C027,Home_027,Thessaloniki,Central Macedonia,Home decor store,2025-03-16,low_risk
+C028,Frame_028,Athens,Attica,Frame shop,2024-01-21,low_risk
+C029,Frame_029,Rethymno,Crete,Frame shop,2023-07-11,low_risk
+C030,Frame_030,Rethymno,Crete,Frame shop,2023-10-04,medium_risk
+C031,Home_031,Athens,Attica,Home decor store,2023-06-10,medium_risk
+C032,Frame_032,Trikala,Thessaly,Frame shop,2024-04-04,low_risk
+C033,Frame_033,Katerini,Central Macedonia,Frame shop,2023-11-10,medium_risk
+C034,Gallery_034,Trikala,Thessaly,Gallery,2023-01-22,medium_risk
+C035,Gallery_035,Marousi,Attica,Gallery,2023-09-10,medium_risk
+C036,Frame_036,Thessaloniki,Central Macedonia,Frame shop,2025-01-17,low_risk
+C037,Home_037,Patra,Western Greece,Home decor store,2025-05-06,medium_risk
+C038,Gift_038,Marousi,Attica,Gift shop,2024-07-14,medium_risk
+C039,Frame_039,Larisa,Thessaly,Frame shop,2024-04-19,high_risk
+C040,Gallery_040,Athens,Attica,Gallery,2023-02-28,medium_risk
+C041,Frame_041,Patra,Western Greece,Frame shop,2024-05-25,medium_risk
+C042,Frame_042,Patra,Western Greece,Frame shop,2024-11-12,high_risk
+C043,Gift_043,Heraklion,Crete,Gift shop,2024-04-20,medium_risk
+C044,Frame_044, veria ,Central Macedonia,Frame shop,2024-11-30,high_risk
+C045,Gift_045,Volos,Thessaly,Gift shop,2025-02-21,medium_risk
+C046,Frame_046,Thessaloniki,Central Macedonia,Frame shop,2023-07-09,low_risk
+C047,Home_047,Patra,Western Greece,Home decor store,2024-11-17,low_risk
+C048,Frame_048,Piraeus,Attica,Frame shop,2024-07-16,low_risk
+C049,Home_049,Larisa,Thessaly,Home decor store,2025-05-25,low_risk
+C050,Home_050,Heraklion,Crete,Home decor store,2024-07-20,medium_risk
+C051,Home_051,Pyrgos,Western Greece,Home decor store,2023-09-01,medium_risk
+C052,Frame_052,Heraklion,Crete,Frame shop,2025-04-11,medium_risk
+C053,Frame_053,Volos,Thessaly,Frame shop,2024-05-19,high_risk
+C054,Frame_054,Athens,Attica,Frame shop,2023-05-11,medium_risk
+C055,Frame_055,Piraeus,Attica,Frame shop,2024-04-29,medium_risk
+C056,Frame_056, katerini ,Central Macedonia,Frame shop,2025-03-29,medium_risk
+C057,Gallery_057,Peristeri,Attica,Gallery,2024-10-08,high_risk
+C058,Home_058,Athens,Attica,Home decor store,2023-01-21,medium_risk
+C059,Gift_059, athens ,Attica,Gift shop,2025-04-20,medium_risk
+C060,Home_060,Katerini,Central Macedonia,Home decor store,2023-06-16,low_risk
+C061,Frame_061,Heraklion,Crete,Frame shop,2023-10-01,low_risk
+C062,Gift_062,Chania,Crete,Gift shop,2024-01-23,medium_risk
+C063,Home_063,Volos,Thessaly,Home decor store,2024-08-23,medium_risk
+C064,Gallery_064,Pyrgos,Western Greece,Gallery,2023-11-12,low_risk
+C065,Gift_065,Larisa,Thessaly,Gift shop,2023-01-14,medium_risk
+C066,Gallery_066,Patra,Western Greece,Gallery,2023-08-30,low_risk
+C067,Home_067,Agrinio,Western Greece,Home decor store,2025-02-15,high_risk
+C068,Gift_068,Thessaloniki,Central Macedonia,Gift shop,2023-12-12,low_risk
+C069,Home_069,Thessaloniki,Central Macedonia,Home decor store,2024-07-18,medium_risk
+C070,Frame_070,Katerini,Central Macedonia,Frame shop,2025-06-16,high_risk
+C071,Home_071,Veria,Central Macedonia,Home decor store,2023-12-06,medium_risk
+C072,Home_072,Rethymno,Crete,Home decor store,2023-04-02,medium_risk
+C073,Home_073,Larisa,Thessaly,Home decor store,2024-01-02,low_risk
+C074,Frame_074,Volos,Thessaly,Frame shop,2024-03-30,medium_risk
+C075,Gift_075,Chania,Crete,Gift shop,2024-03-03,high_risk
+C076,Home_076,Peristeri,Attica,Home decor store,2024-05-23,medium_risk
+C077,Home_077,Athens,Attica,Home decor store,2025-02-14,medium_risk
+C078,Gift_078,Katerini,Central Macedonia,Gift shop,2023-02-04,high_risk
+C079,Frame_079, volos ,Thessaly,Frame shop,2023-07-25,medium_risk
+C080,Gift_080,Trikala,Thessaly,Gift shop,2023-03-22,medium_risk
+C081,Home_081,Patra,Western Greece,Home decor store,2024-07-15,medium_risk
+C082,Frame_082,Piraeus,Attica,Frame shop,2025-05-21,high_risk
+C083,Frame_083,Patra,Western Greece,Frame shop,2024-01-23,medium_risk
+C084,Home_084,Larisa,Thessaly,Home decor store,2023-01-02,high_risk
+C085,Frame_085,Agrinio,Western Greece,Frame shop,2024-01-25,high_risk
+C086,Home_086,Athens,Attica,Home decor store,2024-07-19,medium_risk
+C087,Frame_087,Athens,Attica,Frame shop,2023-04-16,low_risk
+C088,Gallery_088,Larisa,Thessaly,Gallery,2025-02-10,medium_risk
+C089,Frame_089,Rethymno,Crete,Frame shop,2025-04-01,low_risk
+C090,Frame_090,Veria,Central Macedonia,Frame shop,2024-04-21,low_risk

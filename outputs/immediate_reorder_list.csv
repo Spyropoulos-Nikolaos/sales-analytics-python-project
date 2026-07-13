@@ -1,0 +1,8 @@
+product_name,category,current_stock,avg_monthly_net_qty,stock_coverage_months,gross_profit,reorder_priority
+Art Frame V1,Decor,47,29.833333333333332,1.5754189944134078,3471.1164,urgent_reorder
+Art Frame V3,Decor,58,33.666666666666664,1.722772277227723,2961.3152999999993,urgent_reorder
+White Frame V2,Modern,43,30.416666666666668,1.4136986301369863,2046.4859999999996,urgent_reorder
+Minimal Frame V2,Modern,48,43.083333333333336,1.114119922630561,1925.8999000000003,urgent_reorder
+White Frame V1,Modern,66,36.666666666666664,1.8,1801.5965999999996,urgent_reorder
+Metal Frame V1,Classic,44,44.75,0.9832402234636871,1414.9904000000004,urgent_reorder
+Oak Frame V3,Premium,50,25.666666666666668,1.948051948051948,1286.0115,urgent_reorder

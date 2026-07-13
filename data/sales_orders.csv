@@ -1,0 +1,1511 @@
+order_id,order_date,customer_id,product_id,sales_rep,channel,quantity,unit_price,discount_pct,unit_cost,payment_days,returned_qty,order_status
+O1058,2025-12-08,C008,P001,Giorgos,Wholesale,14,14.99,0.03,10.8,15.0,0,Completed
+O1272,2025-12-23,C046,P023,Eleni,Wholesale,13,16.26,0.05,10.3,30.0,0,Pending
+O1453,2025-04-09,C042,P003,Giorgos,Direct,10,8.23,0.09,6.17,60.0,0,Completed
+O1160,2025-07-14,C085,P021,Maria,Direct,12,19.64,0.02,12.46,60.0,0,Completed
+O1115,2025-06-04,C026,P004,Giorgos,Wholesale,14,9.14,0.08,6.26,45.0,0,Completed
+O1062,2025-01-01,C044,P013,Eleni,Wholesale,9,24.95,0.03,13.56,60.0,0,Completed
+O1469,2025-08-09,C068,P028,Eleni,Wholesale,8,20.02,0.0,10.16,15.0,0,Completed
+O1168,2025-08-15,C007,P029,Maria,Wholesale,11,17.56,0.05,12.31,30.0,0,Completed
+O1220,2025-03-28,C051,P026,Nikos,Wholesale,10,16.04,0.08,9.36,45.0,0,Completed
+O1227,2025-12-06,C062,P002,Eleni,Wholesale,8,8.02,0.0,5.44,60.0,0,Completed
+O1330,2025-05-01,C086,P032,Eleni,Wholesale,11,13.3,0.03,7.5,45.0,1,Partial return
+O1256,2025-04-12,C052,P033,Maria,Wholesale,12,17.67,0.1,10.26,30.0,0,Pending
+O1437,2025-05-06,C052,P025,Giorgos,Direct,12,15.87,0.05,11.49,45.0,0,Completed
+O1401,2025-02-07,C013,P001,Giorgos,Wholesale,7,14.99,0.02,10.81,30.0,0,Completed
+O1335,2025-11-19,C036,P022,Maria,Direct,15,15.11,0.05,9.63,30.0,0,Completed
+O1095,2025-07-16,C036,P024,Giorgos,Wholesale,12,16.87,0.03,10.51,30.0,0,Completed
+O1249,2025-03-17,C043,P024,Nikos,Phone order,4,16.87,,10.91,30.0,1,Partial return
+O1526,2025-02-24,C055,P013,Giorgos,Wholesale,10,24.95,0.05,13.48,30.0,1,Completed
+O1086,2025-12-23,C030,P004,Giorgos,Wholesale,20,9.14,0.05,6.17,45.0,0,Completed
+O1554,2025-05-08,C026,P012,Nikos,Wholesale,9,19.45,0.0,13.52,15.0,0,Completed
+O1243,2025-08-26,C002,P024,Eleni,Phone order,12,16.87,0.05,10.51,45.0,0,Completed
+O1090,2025-08-15,C070,P003,Giorgos,Phone order,13,8.23,0.06,5.89,60.0,0,Completed
+O1236,2025-10-08,C037,P034,Giorgos,Phone order,12,21.54,0.03,11.19,60.0,0,Completed
+O1616,2025-09-01,C034,P017,Giorgos,Wholesale,10,17.04,0.08,8.53,45.0,0,Completed
+O1231,2025-05-07,C052,P036,Eleni,Direct,11,19.47,0.05,11.52,30.0,0,Completed
+O1292,2025-09-24,C064,P022,Giorgos,Direct,10,15.11,0.03,10.08,30.0,0,Completed
+O1127,2025-05-21,C015,P021,Giorgos,Wholesale,15,19.64,0.07,12.61,45.0,0,Completed
+O1210,2025-05-27,C043,P033,Maria,Wholesale,7,17.67,0.0,9.75,45.0,0,Completed
+O1084,2025-06-13,C041,P020,Nikos,Wholesale,10,11.89,0.05,7.56,30.0,0,Completed
+O1114,2025-04-29,C044,P027,Giorgos,Direct,12,19.42,0.02,13.9,45.0,0,Completed
+O1264,2025-12-28,C009,P007,Maria,Wholesale,16,13.28,0.03,6.64,30.0,1,Completed
+O1285,2025-07-28,C038,P032,Eleni,Wholesale,11,13.3,0.03,7.77,45.0,0,Completed
+O1115,2025-08-01,C046,P026,Nikos,Wholesale,12,16.04,0.05,9.34,30.0,0,Completed
+O1646,2025-08-04,C066,P008,Giorgos,Phone order,11,9.08,0.05,4.86,15.0,0,Completed
+O1310,2025-10-27,C043,P024,Nikos,Phone order,7,16.87,0.0,10.73,45.0,0,Completed
+O1017,2025-10-22,C037,P025,Giorgos,Wholesale,5,15.87,0.0,11.02,30.0,1,Partial return
+O1017,2025-06-30,C086,P016,Eleni,Direct,15,19.23,0.05,9.6,45.0,0,Completed
+O1498,2025-08-03,C038,P028,Maria,Wholesale,12,20.02,0.05,10.3,45.0,0,Completed
+O1016,2025-05-20,C039,P031,Giorgos,Wholesale,4,15.37,0.01,8.3,75.0,0,Completed
+O1245,2025-07-19,C043,P021,Eleni,Direct,7,19.64,0.0,12.79,30.0,0,Completed
+O1585,2025-07-27,C010,P014,Maria,Phone order,12,17.99,0.05,8.68,30.0,1,Completed
+O1506,2025-03-07,C071,P012,Nikos,Phone order,10,19.45,0.08,13.98,30.0,0,Completed
+O1617,2025-10-31,C035,P008,Nikos,Wholesale,5,9.08,0.0,4.66,30.0,0,Completed
+O1602,2025-08-08,C048,P035,Maria,Phone order,15,21.37,0.08,12.24,15.0,0,Completed
+O1422,2025-04-04,C018,P031,Nikos,Wholesale,9,15.37,0.04,8.48,30.0,0,Completed
+O1223,2025-06-17,C034,P001,Maria,Wholesale,5,14.99,0.0,10.83,45.0,0,Completed
+O1484,2025-06-22,C006,P009,Giorgos,Wholesale,7,9.54,0.04,6.12,30.0,0,Completed
+O1033,2025-08-04,C029,P018,Eleni,Phone order,12,15.39,0.05,10.19,15.0,0,Completed
+O1084,2025-08-29,C036,P008,Nikos,Direct,10,9.08,0.07,4.58,15.0,0,Completed
+O1199,2025-01-27,C056,P004,Eleni,Wholesale,6,9.14,0.02,5.98,45.0,0,Completed
+O1386,2025-02-05,C072,P009,Nikos,Direct,3,9.54,0.0,5.97,45.0,0,Completed
+O1102,2025-05-07,C083,P025,Maria,Phone order,9,15.87,0.02,11.2,30.0,0,Completed
+O1589,2025-11-15,C008,P014,Maria,Wholesale,7,17.99,0.0,8.71,30.0,0,Completed
+O1635,2025-08-31,C003,P034,Nikos,Wholesale,9,21.54,0.0,11.07,45.0,0,Completed
+O1014,2025-04-22,C008,P002,Giorgos,Direct,11,8.02,0.05,5.56,15.0,0,Completed
+O1093,2025-07-08,C038,P006,Maria,Direct,14,12.05,0.05,8.52,60.0,0,Completed
+O1268,2025-02-28,C034,P017,Maria,Phone order,10,17.04,0.05,8.38,45.0,0,Completed
+O1145,2025-02-25,C035,P035,Nikos,Phone order,8,21.37,0.0,12.66,45.0,0,Completed
+O1513,2025-10-22,C023,P012,Giorgos,Wholesale,12,19.45,0.05,13.82,,0,Completed
+O1206,2025-04-12,C061,P014,Nikos,Wholesale,10,17.99,0.03,9.07,30.0,0,Completed
+O1352,2025-11-18,C022,P035,Maria,Wholesale,11,21.37,0.09,12.56,75.0,1,Completed
+O1001,2025-06-04,C020,P023,Nikos,Direct,9,16.26,0.0,11.01,45.0,0,Completed
+O1614,2025-10-17,C039,P032,Nikos,Wholesale,12,13.3,0.04,7.83,60.0,0,Completed
+O1003,2025-08-08,C048,P034,Eleni,Wholesale,12,21.54,0.07,11.46,30.0,1,Partial return
+O1051,2025-11-28,C006,P034,Eleni,Wholesale,10,21.54,0.07,11.18,30.0,0,Completed
+O1002,2025-08-04,C025,P015,Giorgos,Wholesale,7,21.66,0.0,10.91,30.0,0,Completed
+O1376,2025-07-05,C047,P003,Giorgos,Direct,6,8.23,0.0,6.09,15.0,0,Completed
+O1580,2025-08-11,C025,P029,Maria,Direct,10,17.56,0.03,12.52,15.0,0,Completed
+O1509,2025-11-30,C006,P004,Eleni,Direct,10,9.14,0.07,5.96,30.0,0,Completed
+O1554,2025-10-03,C083,P027,Giorgos,Wholesale,14,19.42,,13.39,45.0,0,Pending
+O1614,2025-10-31,C050,P026,Eleni,Wholesale,8,16.04,0.0,9.6,45.0,0,Completed
+O1542,2025-05-06,C022,P014,Nikos,Wholesale,14,17.99,0.02,8.76,45.0,0,Completed
+O1407,2025-08-19,C086,P031,Maria,Direct,12,15.37,0.05,8.19,30.0,0,Completed
+O1266,2025-10-19,C075,P004,Giorgos,Wholesale,11,9.14,0.02,6.37,60.0,0,Completed
+O1532,2025-09-11,C040,P003,Eleni,Wholesale,9,8.23,0.0,5.86,45.0,0,Completed
+O1149,2025-04-19,C012,P009,Eleni,Direct,11,9.54,0.03,6.01,45.0,0,Completed
+O1598,2025-06-24,C087,P008,Eleni,Phone order,11,9.08,0.05,4.62,15.0,0,Completed
+O1546,2025-12-26,C029,P026,Eleni,Wholesale,14,16.04,0.1,9.84,45.0,0,Completed
+O1560,2025-09-22,C023,P030,Maria,Wholesale,12,14.56,0.08,7.9,45.0,0,Completed
+O1435,2025-07-28,C007,P001,Giorgos,Wholesale,11,14.99,0.08,10.63,15.0,0,Completed
+O1360,2025-05-04,C055,P013,Giorgos,Direct,14,24.95,0.07,13.21,60.0,1,Partial return
+O1183,2025-09-09,C009,P013,Giorgos,Direct,8,24.95,0.02,13.66,60.0,0,Completed
+O1638,2025-02-17,C077,P025,Eleni,Wholesale,8,15.87,0.0,11.17,30.0,0,Completed
+O1278,2025-12-21,C048,P021,Maria,Wholesale,14,19.64,0.09,12.54,30.0,1,Completed
+O1515,2025-10-25,C090,P003,Eleni,Wholesale,12,8.23,0.12,6.04,15.0,0,Completed
+O1070,2025-09-29,C080,P036,Eleni,Wholesale,9,19.47,,10.96,45.0,0,Completed
+O1526,2025-10-09,C065,P003,Eleni,Wholesale,7,8.23,0.0,6.05,45.0,0,Pending
+O1117,2025-08-21,C071,P019,Eleni,Wholesale,6,14.76,0.0,8.04,45.0,0,Completed
+O1260,2025-04-29,C044,P005,Nikos,Direct,18,9.46,0.08,4.72,75.0,0,Completed
+O1260,2025-06-11,C005,P032,Nikos,Direct,4,13.3,0.0,7.99,30.0,0,Completed
+O1408,2025-12-20,C006,P009,Maria,Wholesale,12,9.54,0.09,5.96,30.0,0,Completed
+O1619,2025-09-05,C006,P033,Eleni,Direct,9,17.67,0.02,10.23,15.0,0,Completed
+O1165,2025-09-26,C089,P008,Eleni,Phone order,12,9.08,0.05,4.6,30.0,0,Completed
+O1423,2025-04-10,C063,P020,Eleni,Wholesale,12,11.89,0.05,7.76,45.0,0,Completed
+O1532,2025-04-02,C049,P026,Eleni,Wholesale,6,16.04,0.0,9.76,45.0,0,Completed
+O1044,2025-10-01,C048,P018,Maria,Wholesale,12,15.39,0.07,10.75,45.0,0,Completed
+O1387,2025-01-28,C033,P032,Eleni,Direct,8,13.3,0.02,7.47,45.0,0,Completed
+O1016,2025-03-06,C090,P018,Giorgos,Wholesale,12,15.39,0.09,10.89,15.0,0,Completed
+O1211,2025-01-07,C069,P036,Eleni,Wholesale,9,19.47,0.0,11.69,45.0,0,Completed
+O1075,2025-08-14,C058,P022,Eleni,Wholesale,10,15.11,0.03,9.43,60.0,0,Completed
+O1143,2025-01-27,C019,P001,Eleni,Phone order,15,14.99,0.02,10.87,60.0,0,Completed
+O1424,2025-09-02,C067,P033,Nikos,Phone order,10,17.67,0.07,10.13,45.0,0,Completed
+O1286,2025-07-25,C005,P021,Giorgos,Wholesale,7,19.64,0.0,12.42,60.0,0,Completed
+O1016,2025-11-19,C022,P028,Nikos,Wholesale,15,20.02,0.04,10.36,45.0,1,Partial return
+O1008,2025-10-16,C046,P015,Eleni,Wholesale,14,21.66,0.09,11.35,15.0,0,Completed
+O1214,2025-05-08,C023,P012,Nikos,Wholesale,10,19.45,0.07,13.38,45.0,0,Completed
+O1602,2025-08-02,C042,P016,Maria,Direct,6,19.23,0.0,9.74,75.0,0,Pending
+O1333,2025-07-14,C085,P005,Giorgos,Phone order,13,9.46,0.02,4.69,45.0,0,Completed
+O1412,2025-06-02,C049,P032,Giorgos,Wholesale,11,13.3,0.03,7.74,15.0,0,Pending
+O1258,2025-11-14,C002,P015,Nikos,Direct,10,21.66,0.07,11.2,30.0,0,Completed
+O1107,2025-02-20,C039,P024,Maria,Direct,12,16.87,0.04,10.63,45.0,1,Completed
+O1148,2025-05-16,C031,P019,Nikos,Wholesale,7,14.76,0.0,8.08,45.0,0,Completed
+O1434,2025-03-30,C044,P001,Nikos,Wholesale,8,14.99,0.01,10.6,45.0,0,Completed
+O1549,2025-07-29,C087,P010,Giorgos,Direct,13,25.35,0.09,16.83,30.0,2,Completed
+O1533,2025-08-29,C088,P020,Eleni,Wholesale,12,11.89,0.03,7.61,30.0,1,Partial return
+O1117,2025-05-28,C054,P012,Eleni,Direct,9,19.45,0.04,13.87,30.0,0,Completed
+O1587,2025-08-21,C019,P027,Nikos,Direct,16,19.42,0.04,13.31,45.0,3,Completed
+O1287,2025-05-16,C066,P027,Maria,Wholesale,13,19.42,0.08,13.4,15.0,0,Completed
+O1141,2025-10-06,C068,P027,Maria,Direct,9,19.42,0.0,13.91,15.0,0,Completed
+O1573,2025-05-17,C010,P031,Maria,Wholesale,10,15.37,0.05,8.09,30.0,0,Completed
+O1233,2025-03-26,C020,P001,Eleni,Wholesale,12,14.99,0.03,10.3,30.0,0,Completed
+O1012,2025-10-19,C044,P009,Eleni,Wholesale,7,9.54,0.01,6.11,75.0,0,Completed
+O1157,2025-08-28,C085,P029,Eleni,Direct,12,17.56,0.04,12.68,45.0,1,Partial return
+O1523,2025-05-20,C087,P025,Giorgos,Wholesale,12,15.87,0.05,11.11,30.0,0,Completed
+O1528,2025-11-03,C033,P031,Nikos,Phone order,17,15.37,0.07,8.56,30.0,0,Completed
+O1149,2025-06-15,C061,P017,Eleni,Wholesale,9,17.04,0.0,8.08,30.0,0,Completed
+O1111,2025-04-28,C030,P032,Nikos,Phone order,12,13.3,0.08,7.49,45.0,0,Completed
+O1501,2025-12-11,C031,P026,Eleni,Wholesale,10,16.04,0.03,9.98,45.0,3,Completed
+O1504,2025-03-31,C041,P014,Giorgos,Wholesale,8,17.99,0.02,9.06,30.0,0,Completed
+O1278,2025-08-15,C033,P007,Eleni,Wholesale,12,13.28,0.09,6.82,45.0,0,Completed
+O1005,2025-10-27,C044,P007,Giorgos,Direct,12,13.28,0.04,6.56,45.0,0,Pending
+O1333,2025-09-09,C047,P014,Nikos,Wholesale,11,17.99,0.03,9.11,15.0,0,Completed
+O1245,2025-07-29,C087,P035,Eleni,Wholesale,17,21.37,0.08,12.24,30.0,0,Completed
+O1173,2025-02-23,C011,P009,Maria,Wholesale,11,9.54,0.03,6.0,30.0,0,Completed
+O1058,2025-12-22,C080,P035,Giorgos,Wholesale,14,21.37,0.08,12.43,45.0,0,Completed
+O1099,2025-07-25,C030,P030,Nikos,Wholesale,14,14.56,0.07,8.49,30.0,0,Completed
+O1280,2025-06-11,C075,P002,Eleni,Wholesale,10,8.02,0.04,5.43,45.0,0,Completed
+O1615,2025-07-26,C028,P009,Nikos,Direct,7,9.54,0.0,6.03,30.0,0,Completed
+O1537,2025-10-05,C023,P008,Giorgos,Wholesale,11,9.08,0.05,4.74,30.0,0,Completed
+O1505,2025-04-07,C033,P034,Eleni,Direct,12,21.54,0.09,10.91,45.0,0,Completed
+O1141,2025-09-13,C019,P024,Giorgos,Direct,12,16.87,0.06,10.67,45.0,0,Completed
+O1315,2025-04-15,C045,P025,Eleni,Wholesale,14,15.87,0.03,11.01,45.0,0,Completed
+O1595,2025-05-28,C056,P008,Giorgos,Phone order,8,9.08,0.02,4.55,45.0,0,Completed
+O1489,2025-09-06,C061,P011,Nikos,Wholesale,10,16.3,0.07,11.73,45.0,0,Completed
+O1412,2025-11-19,C036,P026,Maria,Direct,16,16.04,0.05,9.82,30.0,0,Completed
+O1154,2025-06-09,C054,P002,Nikos,Wholesale,10,8.02,0.08,5.41,45.0,0,Completed
+O1413,2025-02-17,C016,P003,Maria,Phone order,8,8.23,0.02,5.73,30.0,0,Completed
+O1164,2025-02-28,C085,P007,Giorgos,Phone order,10,13.28,0.04,6.85,45.0,0,Completed
+O1170,2025-11-28,C063,P006,Maria,Wholesale,13,12.05,0.03,8.34,30.0,0,Completed
+O1203,2025-05-30,C041,P026,Eleni,Wholesale,16,16.04,0.05,10.04,45.0,0,Completed
+O1187,2025-09-05,C041,P023,Giorgos,Wholesale,11,16.26,0.05,10.29,45.0,0,Completed
+O1003,2025-10-10,C037,P023,Maria,Wholesale,5,16.26,0.0,10.84,60.0,0,Completed
+O1196,2025-11-03,C084,P016,Maria,Phone order,12,19.23,0.04,9.53,75.0,0,Completed
+O1622,2025-05-22,C032,P019,Giorgos,Wholesale,15,14.76,0.07,7.93,30.0,0,Completed
+O1620,2025-09-17,C046,P005,Eleni,Phone order,4,9.46,0.04,4.59,15.0,0,Completed
+O1247,2025-05-25,C022,P008,Eleni,Phone order,17,9.08,0.04,4.78,45.0,0,Completed
+O1305,2025-10-24,C061,P027,Giorgos,Phone order,18,19.42,0.07,13.54,15.0,0,Completed
+O1232,2025-08-17,C002,P009,Giorgos,Wholesale,7,9.54,0.0,6.31,60.0,0,Completed
+O1003,2025-10-10,C032,P013,Giorgos,Wholesale,9,24.95,0.04,13.18,30.0,0,Completed
+O1136,2025-06-14,C039,P020,Maria,Phone order,9,11.89,0.01,7.74,75.0,0,Completed
+O1576,2025-05-03,C070,P030,Giorgos,Wholesale,18,14.56,0.09,8.05,60.0,0,Completed
+O1129,2025-07-30,C047,P029,Nikos,Wholesale,13,17.56,0.03,12.86,30.0,0,Completed
+O1217,2025-08-31,C082,P032,Giorgos,Wholesale,13,13.3,0.04,7.57,75.0,1,Completed
+O1459,2025-12-06,C032,P027,Maria,Wholesale,15,19.42,0.03,13.37,15.0,0,Completed
+O1442,2025-01-19,C051,P022,Maria,Wholesale,13,15.11,0.05,9.87,60.0,0,Completed
+O1014,2025-10-30,C005,P016,Eleni,Phone order,11,19.23,0.05,9.71,30.0,0,Completed
+O1434,2025-08-14,C002,P027,Nikos,Wholesale,17,19.42,0.07,13.7,30.0,0,Completed
+O1519,2025-08-22,C045,P035,Nikos,Direct,10,21.37,0.08,12.43,30.0,0,Completed
+O1350,2025-07-29,C028,P020,Maria,Wholesale,9,11.89,0.02,7.29,45.0,0,Completed
+O1192,2025-05-16,C028,P007,Eleni,Direct,10,13.28,0.07,6.69,15.0,0,Completed
+O1453,2025-07-23,C043,P027,Nikos,Phone order,3,19.42,0.0,14.1,60.0,0,Completed
+O1181,2025-12-12,C038,P017,Giorgos,Phone order,14,17.04,0.08,8.09,30.0,0,Completed
+O1040,2025-11-17,C033,P006,Giorgos,Phone order,14,12.05,0.07,8.42,30.0,0,Completed
+O1224,2025-01-19,C012,P006,Nikos,Wholesale,9,12.05,0.0,8.46,30.0,0,Completed
+O1237,2025-12-17,C036,P032,Eleni,Phone order,15,13.3,0.05,7.47,30.0,0,Completed
+O1255,2025-02-16,C030,P036,Giorgos,Phone order,8,19.47,0.0,11.55,45.0,0,Completed
+O1273,2025-11-21,C027,P007,Nikos,Wholesale,15,13.28,0.03,6.94,30.0,0,Completed
+O1013,2025-12-22,C070,P014,Eleni,Phone order,15,17.99,0.04,8.93,60.0,0,Completed
+O1384,2025-01-24,C004,P020,Eleni,Direct,6,11.89,0.0,7.45,30.0,0,Completed
+O1232,2025-05-31,C018,P002,Eleni,Wholesale,12,8.02,0.05,5.68,60.0,0,Completed
+O1147,2025-03-16,C018,P009,Maria,Wholesale,14,9.54,0.05,6.28,45.0,0,Completed
+O1492,2025-10-17,C015,P007,Maria,Wholesale,9,13.28,0.04,6.69,30.0,1,Partial return
+O1113,2025-02-10,C001,P006,Giorgos,Direct,11,12.05,0.08,8.45,30.0,0,Completed
+O1143,2025-05-04,C086,P004,Giorgos,Phone order,8,9.14,0.0,6.22,60.0,0,Completed
+O1345,2025-03-15,C086,P003,Maria,Wholesale,7,8.23,0.0,6.07,30.0,2,Completed
+O1108,2025-05-11,C010,P005,Giorgos,Wholesale,11,9.46,0.05,4.64,30.0,0,Completed
+O1405,2025-01-05,C067,P002,Giorgos,Phone order,6,8.02,0.0,5.52,75.0,0,Completed
+O1509,2025-12-13,C035,P017,Maria,Wholesale,11,17.04,0.05,8.62,45.0,0,Completed
+O1571,2025-06-26,C058,P035,Eleni,Direct,9,21.37,0.0,12.05,45.0,0,Completed
+O1327,2025-08-06,C023,P003,Eleni,Wholesale,9,8.23,0.0,5.97,30.0,0,Completed
+O1136,2025-06-04,C045,P026,Maria,Phone order,15,16.04,0.08,9.62,60.0,0,Completed
+O1146,2025-09-05,C023,P020,Nikos,Wholesale,14,11.89,0.09,7.44,45.0,0,Completed
+O1316,2025-10-20,C018,P017,Eleni,Wholesale,9,17.04,0.02,8.5,30.0,0,Completed
+O1314,2025-12-25,C031,P028,Eleni,Wholesale,6,20.02,0.0,10.34,30.0,0,Completed
+O1448,2025-12-04,C026,P008,Giorgos,Wholesale,9,9.08,0.0,4.87,15.0,0,Completed
+O1239,2025-10-17,C004,P021,Nikos,Phone order,13,19.64,0.12,13.0,30.0,0,Completed
+O1175,2025-09-12,C079,P003,Eleni,Direct,8,8.23,0.02,6.15,30.0,0,Completed
+O1164,2025-04-28,C037,P004,Eleni,Wholesale,11,9.14,0.03,5.97,60.0,0,Completed
+O1517,2025-04-08,C015,P026,Eleni,Direct,14,16.04,0.07,9.99,45.0,1,Partial return
+O1107,2025-12-04,C025,P004,Maria,Direct,7,9.14,0.0,6.14,30.0,0,Completed
+O1181,2025-11-18,C069,P008,Nikos,Wholesale,16,9.08,0.03,4.64,45.0,0,Completed
+O1316,2025-08-14,C001,P013,Nikos,Wholesale,7,24.95,0.0,13.73,15.0,0,Completed
+O1553,2025-03-09,C090,P006,Nikos,Phone order,9,12.05,0.02,8.79,30.0,0,Completed
+O1524,2025-06-17,C053,P005,Giorgos,Wholesale,9,9.46,0.01,4.89,60.0,0,Completed
+O1164,2025-03-09,C055,P021,Eleni,Wholesale,9,19.64,0.02,12.2,60.0,1,Partial return
+O1310,2025-05-20,C084,P023,Maria,Wholesale,6,16.26,0.0,10.27,45.0,0,Completed
+O1251,2025-09-04,C075,P032,Eleni,Direct,10,13.3,0.07,7.46,45.0,0,Completed
+O1058,2025-06-23,C043,P010,Nikos,Wholesale,12,25.35,0.08,17.62,45.0,0,Completed
+O1043,2025-02-08,C018,P004,Maria,Direct,9,9.14,0.04,6.04,30.0,0,Completed
+O1275,2025-04-26,C061,P008,Giorgos,Phone order,18,9.08,0.12,4.75,30.0,0,Completed
+O1634,2025-10-13,C037,P034,Eleni,Wholesale,7,21.54,0.0,11.55,30.0,0,Completed
+O1093,2025-07-22,C080,P016,Nikos,Wholesale,2,19.23,0.0,9.67,45.0,0,Completed
+O1519,2025-03-05,C058,P035,Giorgos,Wholesale,9,21.37,0.0,12.21,45.0,2,Completed
+O1291,2025-12-11,C011,P008,Eleni,Wholesale,10,9.08,0.05,4.85,30.0,0,Completed
+O1031,2025-11-23,C053,P003,Eleni,Wholesale,20,8.23,0.04,5.89,75.0,0,Completed
+O1253,2025-04-30,C012,P031,Giorgos,Wholesale,13,15.37,0.08,8.16,60.0,0,Completed
+O1172,2025-10-15,C005,P022,Eleni,Phone order,9,15.11,,9.86,45.0,0,Completed
+O1567,2025-04-24,C023,P031,Nikos,Direct,6,15.37,0.0,8.22,45.0,0,Completed
+O1123,2025-08-26,C015,P006,Eleni,Direct,10,12.05,0.05,8.72,30.0,0,Completed
+O1333,2025-03-01,C011,P033,Maria,Wholesale,16,17.67,0.05,9.65,30.0,0,Completed
+O1319,2025-01-20,C060,P023,Eleni,Phone order,5,16.26,0.0,10.77,15.0,0,Completed
+O1606,2025-03-01,C044,P005,Nikos,Wholesale,9,9.46,0.0,4.92,60.0,0,Completed
+O1374,2025-10-03,C066,P018,Maria,Wholesale,7,15.39,0.0,10.22,30.0,1,Partial return
+O1611,2025-07-09,C013,P015,Giorgos,Wholesale,11,21.66,0.07,10.76,15.0,0,Completed
+O1352,2025-03-21,C032,P022,Giorgos,Direct,9,15.11,0.02,9.95,15.0,0,Completed
+O1296,2025-09-08,C054,P018,Giorgos,Phone order,8,15.39,0.0,10.95,30.0,0,Completed
+O1531,2025-05-24,C056,P020,Nikos,Direct,14,11.89,0.03,7.76,30.0,0,Completed
+O1045,2025-04-22,C053,P015,Giorgos,Wholesale,9,21.66,0.0,11.24,60.0,0,Completed
+O1209,2025-05-01,C002,P005,Eleni,Wholesale,16,9.46,0.08,4.89,45.0,3,Completed
+O1572,2025-12-18,C019,P035,Eleni,Wholesale,12,21.37,0.02,12.95,45.0,0,Completed
+O1375,2025-11-27,C045,P009,Eleni,Wholesale,11,9.54,0.05,5.93,45.0,0,Completed
+O1324,2025-05-22,C072,P010,Maria,Phone order,10,25.35,0.05,17.76,45.0,0,Completed
+O1518,2025-08-21,C062,P034,Nikos,Direct,10,21.54,0.08,11.38,45.0,0,Completed
+O1059,2025-11-25,C073,P036,Nikos,Wholesale,13,19.47,0.05,11.64,30.0,0,Completed
+O1172,2025-06-20,C018,P029,Maria,Phone order,18,17.56,0.05,12.93,60.0,0,Completed
+O1591,2025-10-17,C023,P034,Maria,Wholesale,5,21.54,0.0,10.82,30.0,0,Completed
+O1550,2025-10-11,C006,P014,Maria,Wholesale,14,17.99,0.07,8.9,30.0,0,Completed
+O1617,2025-04-30,C051,P017,Eleni,Direct,14,17.04,0.03,8.5,45.0,0,Completed
+O1599,2025-11-02,C068,P008,Nikos,Wholesale,13,9.08,0.05,4.85,30.0,0,Completed
+O1071,2025-03-16,C043,P036,Maria,Wholesale,9,19.47,0.0,11.18,30.0,0,Completed
+O1065,2025-03-31,C087,P004,Nikos,Direct,7,9.14,0.04,6.31,30.0,0,Completed
+O1122,2025-01-14,C027,P010,Maria,Wholesale,6,25.35,0.0,17.31,45.0,1,Partial return
+O1219,2025-05-02,C067,P004,Eleni,Wholesale,7,9.14,0.0,6.14,60.0,1,Partial return
+O1206,2025-05-16,C049,P005,Nikos,Wholesale,10,9.46,0.03,4.91,30.0,0,Completed
+O1548,2025-08-04,C017,P014,Nikos,Direct,10,17.99,0.03,9.04,60.0,0,Completed
+O1001,2025-09-01,C050,P024,Giorgos,Direct,16,16.87,0.05,10.43,45.0,0,Completed
+O1512,2025-09-20,C061,P010,Nikos,Wholesale,8,25.35,0.0,17.11,30.0,0,Completed
+O1337,2025-04-24,C011,P021,Nikos,Direct,11,19.64,0.08,12.66,15.0,0,Completed
+O1205,2025-12-04,C023,P017,Eleni,Wholesale,12,17.04,0.07,8.13,45.0,0,Completed
+O1588,2025-01-16,C074,P011,Nikos,Phone order,12,16.3,0.05,11.28,45.0,0,Completed
+O1090,2025-07-25,C053,P018,Giorgos,Direct,6,15.39,0.01,10.76,60.0,0,Completed
+O1282,2025-09-09,C046,P015,Giorgos,Wholesale,4,21.66,0.04,11.01,30.0,0,Completed
+O1612,2025-02-11,C038,P009,Eleni,Direct,9,9.54,0.0,6.25,60.0,0,Completed
+O1443,2025-02-03,C061,P008,Maria,Wholesale,8,9.08,0.02,4.88,45.0,1,Partial return
+O1364,2025-11-21,C009,P020,Eleni,Wholesale,18,11.89,0.1,7.71,30.0,0,Completed
+O1019,2025-11-02,C084,P027,Eleni,Wholesale,13,19.42,0.04,13.61,60.0,0,Completed
+O1522,2025-11-06,C074,P008,Giorgos,Wholesale,15,9.08,0.07,4.87,45.0,0,Completed
+O1129,2025-12-26,C065,P030,Nikos,Phone order,16,14.56,0.08,7.92,30.0,0,Completed
+O1248,2025-11-30,C017,P009,Maria,Wholesale,11,9.54,0.05,5.88,45.0,0,Completed
+O1544,2025-04-27,C089,P017,Giorgos,Wholesale,14,17.04,0.05,8.51,15.0,0,Pending
+O1164,2025-08-21,C046,P009,Giorgos,Wholesale,9,9.54,0.0,6.09,30.0,0,Completed
+O1090,2025-02-18,C046,P003,Eleni,Wholesale,9,8.23,0.02,5.91,15.0,0,Completed
+O1330,2025-12-07,C065,P008,Eleni,Wholesale,10,9.08,0.05,4.75,45.0,0,Completed
+O1011,2025-03-20,C062,P034,Giorgos,Wholesale,13,21.54,0.03,11.02,30.0,0,Completed
+O1099,2025-02-13,C013,P034,Nikos,Wholesale,13,21.54,0.03,10.71,15.0,0,Completed
+O1610,2025-07-10,C073,P015,Maria,Wholesale,11,21.66,0.03,10.8,15.0,0,Completed
+O1170,2025-10-28,C060,P001,Eleni,Direct,8,14.99,0.0,10.46,30.0,0,Completed
+O1380,2025-07-30,C032,P020,Eleni,Phone order,15,11.89,0.08,7.87,30.0,0,Completed
+O1037,2025-08-05,C078,P009,Nikos,Phone order,7,9.54,0.0,6.3,45.0,0,Completed
+O1453,2025-11-04,C041,P008,Eleni,Wholesale,10,9.08,0.05,4.53,30.0,0,Completed
+O1479,2025-10-23,C037,P034,Maria,Wholesale,10,21.54,0.08,10.72,45.0,0,Completed
+O1486,2025-09-04,C025,P035,Maria,Phone order,7,21.37,0.0,12.43,30.0,0,Completed
+O1436,2025-06-29,C011,P031,Eleni,Wholesale,14,15.37,0.05,8.65,30.0,0,Completed
+O1551,2025-05-23,C036,P005,Maria,Phone order,18,9.46,0.03,4.68,30.0,0,Completed
+O1109,2025-10-15,C045,P008,Nikos,Direct,8,9.08,0.0,4.79,60.0,0,Completed
+O1038,2025-12-03,C024,P021,Eleni,Wholesale,14,19.64,0.05,12.91,30.0,0,Completed
+O1194,2025-05-20,C047,P024,Eleni,Phone order,6,16.87,0.0,10.25,30.0,0,Pending
+O1450,2025-06-29,C040,P021,Nikos,Wholesale,9,19.64,0.0,12.76,30.0,0,Completed
+O1416,2025-03-15,C020,P004,Giorgos,Wholesale,7,9.14,0.0,6.1,30.0,0,Completed
+O1277,2025-11-21,C035,P035,Nikos,Wholesale,19,21.37,0.03,12.43,45.0,0,Completed
+O1141,2025-09-29,C032,P024,Maria,Wholesale,7,16.87,0.0,10.2,15.0,0,Completed
+O1396,2025-08-21,C065,P024,Eleni,Wholesale,11,16.87,0.05,10.52,45.0,3,Completed
+O1066,2025-06-09,C085,P004,Eleni,Direct,9,9.14,0.0,5.95,60.0,0,Completed
+O1049,2025-10-18,C057,P017,Nikos,Phone order,7,17.04,0.0,8.15,75.0,0,Completed
+O1610,2025-03-21,C080,P019,Maria,Direct,8,14.76,0.0,7.63,30.0,1,Partial return
+O1565,2025-01-26,C076,P025,Nikos,Wholesale,9,15.87,0.0,10.94,60.0,0,Completed
+O1066,2025-12-05,C006,P029,Giorgos,Wholesale,15,17.56,0.05,12.19,30.0,0,Completed
+O1509,2025-08-15,C041,P002,Giorgos,Wholesale,11,8.02,0.1,5.43,45.0,0,Completed
+O1421,2025-09-20,C013,P025,Nikos,Wholesale,15,15.87,0.1,11.04,15.0,0,Completed
+O1394,2025-02-26,C052,P006,Eleni,Direct,8,12.05,0.02,8.7,30.0,0,Pending
+O1602,2025-10-31,C040,P008,Giorgos,Wholesale,12,9.08,0.03,4.81,45.0,0,Completed
+O1204,2025-06-07,C060,P018,Nikos,Wholesale,5,15.39,0.0,10.82,45.0,0,Completed
+O1449,2025-11-03,C002,P033,Nikos,Wholesale,26,17.67,0.05,10.04,30.0,0,Completed
+O1299,2025-06-04,C085,P005,Maria,Direct,6,9.46,0.0,4.59,75.0,0,Completed
+O1455,2025-05-11,C020,P020,Eleni,Wholesale,10,11.89,0.03,7.79,45.0,0,Completed
+O1181,2025-01-04,C015,P004,Giorgos,Direct,6,9.14,0.0,5.97,45.0,0,Completed
+O1514,2025-03-31,C062,P024,Maria,Wholesale,13,16.87,0.05,10.82,60.0,0,Completed
+O1100,2025-12-27,C080,P008,Maria,Wholesale,10,9.08,0.05,4.56,30.0,1,Partial return
+O1626,2025-12-09,C053,P003,Eleni,Wholesale,9,8.23,0.03,5.83,60.0,0,Completed
+O1374,2025-01-22,C090,P011,Giorgos,Wholesale,6,16.3,0.0,11.23,30.0,0,Pending
+O1311,2025-02-09,C005,P001,Eleni,Wholesale,8,14.99,0.0,10.83,60.0,0,Completed
+O1567,2025-10-21,C028,P001,Giorgos,Direct,16,14.99,0.05,10.94,30.0,0,Completed
+O1488,2025-08-02,C079,P014,Eleni,Wholesale,5,17.99,0.02,9.12,30.0,0,Completed
+O1609,2025-01-11,C021,P029,Eleni,Wholesale,9,17.56,0.0,12.88,45.0,0,Completed
+O1422,2025-11-13,C027,P031,Giorgos,Phone order,17,15.37,0.05,8.22,30.0,0,Completed
+O1246,2025-07-05,C087,P020,Nikos,Wholesale,12,11.89,0.09,7.34,30.0,0,Completed
+O1432,2025-02-24,C056,P025,Maria,Wholesale,8,15.87,0.04,11.61,45.0,0,Completed
+O1503,2025-07-25,C073,P030,Nikos,Wholesale,6,14.56,0.0,8.52,30.0,0,Completed
+O1541,2025-06-08,C015,P028,Eleni,Wholesale,14,20.02,0.09,10.33,30.0,0,Completed
+O1215,2025-03-28,C078,P009,Nikos,Wholesale,7,9.54,0.0,5.84,45.0,1,Partial return
+O1101,2025-02-28,C075,P001,Maria,Phone order,9,14.99,0.0,10.71,75.0,1,Partial return
+O1332,2025-06-28,C069,P021,Eleni,Direct,6,19.64,0.0,12.74,60.0,0,Completed
+O1551,2025-11-27,C087,P033,Maria,Wholesale,18,17.67,0.03,10.12,30.0,0,Completed
+O1208,2025-03-16,C064,P031,Eleni,Wholesale,8,15.37,0.0,8.69,15.0,1,Partial return
+O1398,2025-11-05,C047,P021,Maria,Direct,15,19.64,0.08,12.66,30.0,0,Completed
+O1531,2025-12-02,C022,P028,Nikos,Wholesale,15,20.02,0.09,10.03,45.0,0,Completed
+O1016,2025-11-18,C049,P012,Giorgos,Wholesale,10,19.45,0.03,14.11,30.0,3,Completed
+O1103,2025-10-16,C031,P021,Giorgos,Direct,9,19.64,0.0,12.59,30.0,0,Completed
+O1024,2025-10-17,C086,P035,Eleni,Phone order,10,21.37,0.03,12.6,60.0,0,Completed
+O1527,2025-11-18,C026,P013,Eleni,Wholesale,14,24.95,0.03,14.08,15.0,0,Completed
+O1504,2025-02-04,C089,P026,Giorgos,Wholesale,5,16.04,0.02,9.37,45.0,0,Completed
+O1295,2025-06-05,C019,P026,Eleni,Wholesale,11,16.04,0.08,9.81,45.0,3,Completed
+O1518,2025-06-30,C047,P021,Nikos,Wholesale,6,19.64,0.0,12.86,45.0,0,Completed
+O1229,2025-08-20,C010,P006,Nikos,Wholesale,4,12.05,0.0,8.75,30.0,1,Partial return
+O1470,2025-05-27,C024,P027,Nikos,Direct,13,19.42,0.03,13.91,30.0,0,Completed
+O1053,2025-02-16,C012,P036,Giorgos,Wholesale,14,19.47,0.05,11.02,45.0,0,Completed
+O1620,2025-10-11,C050,P032,Nikos,Wholesale,5,13.3,0.0,7.96,45.0,0,Completed
+O1105,2025-10-20,C042,P032,Maria,Wholesale,15,13.3,0.06,7.95,60.0,1,Partial return
+O1610,2025-09-01,C028,P026,Maria,Phone order,12,16.04,0.05,9.61,30.0,0,Completed
+O1161,2025-08-19,C047,P024,Nikos,Phone order,9,16.87,0.0,10.25,30.0,0,Completed
+O1012,2025-06-25,C079,P007,Nikos,Wholesale,8,13.28,0.02,6.88,30.0,0,Completed
+O1080,2025-03-30,C079,P015,Nikos,Wholesale,7,21.66,0.02,10.89,60.0,0,Completed
+O1292,2025-08-13,C077,P032,Giorgos,Wholesale,11,13.3,0.08,7.93,30.0,0,Completed
+O1389,2025-11-09,C016,P024,Maria,Wholesale,15,16.87,0.05,10.71,30.0,0,Pending
+O1238,2025-05-25,C045,P010,Giorgos,Wholesale,13,25.35,0.03,17.15,45.0,0,Completed
+O1402,2025-06-23,C072,P008,Nikos,Direct,9,9.08,0.0,4.7,45.0,0,Completed
+O1133,2025-11-28,C034,P035,Eleni,Wholesale,16,21.37,0.05,12.14,45.0,0,Completed
+O1161,2025-02-18,C006,P020,Giorgos,Wholesale,10,11.89,0.1,7.71,45.0,0,Completed
+O1315,2025-12-03,C086,P025,Maria,Wholesale,10,15.87,0.08,10.84,60.0,0,Completed
+O1323,2025-10-26,C043,P022,Maria,Phone order,6,15.11,0.0,9.69,45.0,1,Partial return
+O1293,2025-06-08,C081,P014,Giorgos,Wholesale,9,17.99,0.0,9.25,30.0,0,Completed
+O1290,2025-12-29,C073,P019,Nikos,Wholesale,9,14.76,0.0,7.61,30.0,0,Completed
+O1016,2025-07-12,C060,P033,Eleni,Phone order,8,17.67,0.0,9.97,15.0,0,Completed
+O1324,2025-12-10,C018,P028,Nikos,Direct,23,20.02,0.1,10.27,30.0,0,Completed
+O1052,2025-08-05,C023,P001,Eleni,Wholesale,6,14.99,0.04,10.68,45.0,0,Completed
+O1500,2025-06-08,C011,P023,Maria,Phone order,9,16.26,0.0,10.82,30.0,0,Completed
+O1202,2025-06-24,C060,P014,Giorgos,Wholesale,7,17.99,0.0,8.68,45.0,1,Partial return
+O1401,2025-03-12,C040,P020,Maria,Wholesale,10,11.89,0.03,7.4,30.0,0,Completed
+O1051,2025-02-21,C028,P019,Nikos,Direct,13,14.76,0.09,7.84,45.0,0,Completed
+O1386,2025-11-13,C068,P028,Maria,Wholesale,12,20.02,0.03,10.22,30.0,0,Completed
+O1594,2025-03-20,C029,P005,Maria,Wholesale,7,9.46,0.02,4.66,30.0,1,Partial return
+O1404,2025-12-21,C014,P004,Maria,Direct,10,9.14,0.02,6.21,75.0,0,Completed
+O1336,2025-01-23,C024,P031,Giorgos,Wholesale,6,15.37,0.0,8.6,30.0,0,Completed
+O1416,2025-05-02,C050,P026,Giorgos,Direct,15,16.04,0.03,9.65,60.0,0,Completed
+O1007,2025-08-18,C042,P021,Maria,Wholesale,7,19.64,0.03,13.01,45.0,0,Completed
+O1644,2025-06-08,C063,P005,Giorgos,Phone order,14,9.46,,4.62,30.0,0,Completed
+O1009,2025-04-10,C026,P009,Eleni,Direct,10,9.54,0.08,5.97,30.0,0,Completed
+O1522,2025-10-20,C005,P012,Giorgos,Wholesale,14,19.45,0.03,13.91,45.0,3,Completed
+O1099,2025-05-25,C048,P027,Giorgos,Wholesale,11,19.42,0.09,14.04,30.0,0,Completed
+O1130,2025-08-03,C006,P019,Maria,Phone order,12,14.76,0.07,7.52,45.0,0,Completed
+O1554,2025-11-06,C028,P019,Maria,Phone order,14,14.76,0.05,7.92,30.0,0,Completed
+O1568,2025-01-27,C083,P035,Giorgos,Phone order,8,21.37,0.0,12.33,45.0,0,Completed
+O1112,2025-10-11,C018,P006,Nikos,Direct,13,12.05,0.07,8.85,45.0,0,Completed
+O1104,2025-09-22,C001,P010,Nikos,Wholesale,6,25.35,0.0,17.08,30.0,0,Completed
+O1139,2025-03-24,C084,P023,Eleni,Wholesale,12,16.26,0.02,10.82,75.0,0,Completed
+O1088,2025-09-20,C086,P017,Maria,Phone order,11,17.04,0.05,8.6,45.0,0,Completed
+O1596,2025-02-16,C032,P020,Maria,Phone order,12,11.89,0.05,7.8,15.0,0,Completed
+O1564,2025-06-28,C070,P001,Nikos,Wholesale,13,14.99,0.09,10.53,75.0,0,Completed
+O1487,2025-07-22,C055,P001,Eleni,Wholesale,11,14.99,0.03,10.62,30.0,0,Completed
+O1052,2025-02-11,C021,P026,Eleni,Wholesale,8,16.04,0.0,9.78,30.0,0,Completed
+O1402,2025-06-13,C090,P005,Nikos,Phone order,9,9.46,0.02,4.88,15.0,1,Partial return
+O1279,2025-11-29,C025,P017,Eleni,Direct,16,17.04,0.05,8.19,30.0,0,Completed
+O1623,2025-03-12,C054,P001,Nikos,Wholesale,8,14.99,0.0,10.82,45.0,0,Completed
+O1194,2025-08-30,C057,P001,Maria,Direct,9,14.99,0.0,10.74,75.0,1,Partial return
+O1204,2025-08-29,C018,P035,Giorgos,Direct,5,21.37,0.02,12.1,45.0,0,Completed
+O1101,2025-02-10,C083,P028,Nikos,Wholesale,9,20.02,0.02,10.27,45.0,0,Completed
+O1030,2025-03-18,C015,P018,Giorgos,Wholesale,13,15.39,0.07,10.39,60.0,0,Completed
+O1390,2025-05-28,C029,P021,Maria,Wholesale,14,19.64,0.07,12.73,30.0,0,Completed
+O1273,2025-01-25,C089,P004,Maria,Wholesale,7,9.14,0.02,5.98,30.0,0,Completed
+O1271,2025-11-15,C085,P034,Giorgos,Wholesale,11,21.54,0.06,11.34,60.0,1,Partial return
+O1482,2025-09-13,C016,P008,Nikos,Direct,12,9.08,0.07,4.73,30.0,0,Completed
+O1010,2025-10-22,C049,P011,Maria,Direct,11,16.3,0.05,11.62,45.0,0,Completed
+O1395,2025-05-30,C029,P020,Giorgos,Wholesale,7,11.89,0.02,7.31,30.0,0,Completed
+O1325,2025-06-30,C012,P004,Maria,Wholesale,3,9.14,0.0,6.38,45.0,0,Completed
+O1461,2025-04-06,C013,P022,Nikos,Wholesale,9,15.11,0.02,9.64,30.0,0,Completed
+O1145,2025-07-04,C039,P008,Nikos,Phone order,8,9.08,0.01,4.77,45.0,0,Completed
+O1065,2025-10-06,C029,P031,Nikos,Wholesale,11,15.37,0.07,8.23,45.0,3,Completed
+O1473,2025-08-29,C048,P034,Nikos,Direct,15,21.54,0.05,10.84,30.0,0,Completed
+O1449,2025-07-11,C058,P013,Eleni,Direct,10,24.95,0.05,13.51,30.0,0,Completed
+O1566,2025-07-02,C016,P036,Nikos,Wholesale,10,19.47,0.07,10.89,30.0,0,Completed
+O1607,2025-12-03,C014,P017,Nikos,Direct,12,17.04,0.04,8.06,45.0,0,Completed
+O1257,2025-06-20,C075,P018,Maria,Wholesale,7,15.39,0.0,10.47,60.0,0,Completed
+O1184,2025-10-07,C063,P007,Eleni,Phone order,7,13.28,0.0,6.77,60.0,1,Partial return
+O1176,2025-03-31,C063,P020,Giorgos,Phone order,11,11.89,0.03,7.83,45.0,0,Completed
+O1333,2025-09-03,C079,P029,Maria,Phone order,7,17.56,0.02,12.42,30.0,0,Completed
+O1412,2025-02-02,C008,P025,Giorgos,Wholesale,11,15.87,0.05,11.1,30.0,0,Pending
+O1121,2025-04-14,C013,P020,Nikos,Direct,11,11.89,0.05,7.72,30.0,1,Partial return
+O1387,2025-01-22,C065,P008,Eleni,Phone order,8,9.08,0.0,4.83,30.0,0,Completed
+O1275,2025-09-21,C053,P036,Giorgos,Phone order,12,19.47,0.04,11.39,45.0,0,Completed
+O1037,2025-10-06,C011,P025,Giorgos,Wholesale,7,15.87,0.0,10.75,30.0,0,Completed
+O1637,2025-11-28,C044,P023,Maria,Wholesale,15,16.26,0.02,10.88,60.0,0,Completed
+O1518,2025-01-25,C086,P002,Eleni,Wholesale,11,8.02,0.03,5.42,30.0,0,Completed
+O1368,2025-07-08,C082,P014,Giorgos,Phone order,13,17.99,0.09,9.02,60.0,0,Pending
+O1023,2025-08-14,C084,P003,Giorgos,Wholesale,7,8.23,0.0,5.95,45.0,0,Completed
+O1178,2025-04-06,C014,P002,Giorgos,Direct,13,8.02,0.04,5.61,45.0,0,Completed
+O1427,2025-07-08,C089,P019,Eleni,Phone order,13,14.76,0.05,7.63,30.0,1,Partial return
+O1627,2025-08-06,C077,P032,Nikos,Wholesale,6,13.3,0.0,7.75,45.0,0,Completed
+O1503,2025-04-03,C022,P016,Eleni,Wholesale,10,19.23,0.08,9.72,60.0,0,Completed
+O1456,2025-02-10,C035,P011,Eleni,Direct,12,16.3,0.03,11.0,45.0,0,Completed
+O1476,2025-06-06,C046,P021,Giorgos,Direct,6,19.64,0.02,12.36,30.0,0,Completed
+O1303,2025-08-07,C031,P017,Maria,Direct,13,17.04,0.05,8.39,60.0,0,Completed
+O1260,2025-06-29,C054,P034,Giorgos,Wholesale,9,21.54,0.02,11.12,60.0,0,Completed
+O1402,2025-06-30,C039,P007,Giorgos,Wholesale,13,13.28,0.04,6.81,45.0,0,Completed
+O1086,2025-01-30,C062,P013,Nikos,Direct,10,24.95,0.03,13.39,45.0,0,Completed
+O1368,2025-07-27,C037,P023,Eleni,Wholesale,7,16.26,0.0,10.51,45.0,0,Completed
+O1647,2025-12-14,C085,P032,Maria,Phone order,13,13.3,0.04,7.48,60.0,0,Completed
+O1205,2025-03-15,C075,P006,Giorgos,Wholesale,11,12.05,0.02,8.52,45.0,0,Completed
+O1243,2025-02-04,C028,P009,Maria,Direct,12,9.54,0.05,5.98,45.0,0,Completed
+O1623,2025-07-07,C009,P003,Eleni,Wholesale,8,8.23,0.04,5.82,45.0,0,Completed
+O1158,2025-10-18,C090,P028,Nikos,Direct,12,20.02,0.1,9.7,15.0,0,Completed
+O1410,2025-12-14,C085,P007,Giorgos,Phone order,8,13.28,0.03,6.94,75.0,0,Completed
+O1127,2025-07-10,C055,P026,Giorgos,Direct,10,16.04,0.07,9.56,45.0,0,Completed
+O1466,2025-10-21,C061,P003,Maria,Wholesale,12,8.23,0.07,6.06,30.0,0,Completed
+O1416,2025-07-23,C073,P014,Eleni,Direct,10,17.99,0.05,8.84,15.0,0,Pending
+O1192,2025-05-08,C086,P032,Nikos,Wholesale,12,13.3,0.03,7.81,45.0,1,Partial return
+O1021,2025-04-06,C088,P001,Giorgos,Wholesale,14,14.99,0.03,10.77,30.0,1,Partial return
+O1095,2025-10-15,C078,P007,Nikos,Wholesale,8,13.28,0.0,6.96,45.0,0,Completed
+O1455,2025-05-14,C087,P015,Giorgos,Wholesale,10,21.66,0.07,11.35,30.0,0,Pending
+O1324,2025-11-10,C026,P001,Eleni,Direct,16,14.99,0.05,10.77,30.0,0,Completed
+O1265,2025-09-09,C062,P014,Maria,Wholesale,7,17.99,0.0,8.77,45.0,0,Completed
+O1635,2025-02-07,C086,P028,Giorgos,Wholesale,8,20.02,0.0,10.31,30.0,0,Pending
+O1580,2025-08-16,C058,P006,Nikos,Phone order,7,12.05,0.0,9.02,30.0,0,Completed
+O1583,2025-06-13,C019,P011,Eleni,Direct,6,16.3,0.01,11.37,45.0,0,Completed
+O1547,2025-10-09,C085,P003,Eleni,Phone order,19,8.23,0.09,6.0,45.0,0,Completed
+O1149,2025-03-22,C047,P010,Maria,Direct,6,25.35,0.0,17.57,15.0,0,Completed
+O1293,2025-09-18,C060,P002,Maria,Wholesale,9,8.02,0.0,5.49,15.0,0,Completed
+O1620,2025-04-13,C029,P022,Maria,Wholesale,13,15.11,0.07,10.05,15.0,0,Completed
+O1139,2025-09-10,C012,P032,Nikos,Wholesale,13,13.3,0.05,7.78,30.0,0,Pending
+O1415,2025-10-21,C072,P022,Eleni,Wholesale,9,15.11,0.0,9.79,30.0,0,Completed
+O1437,2025-10-10,C012,P032,Maria,Direct,15,13.3,0.05,7.44,45.0,0,Completed
+O1398,2025-02-14,C087,P029,Nikos,Wholesale,11,17.56,0.07,12.04,45.0,0,Completed
+O1466,2025-09-03,C052,P013,Giorgos,Direct,12,24.95,0.07,13.9,45.0,0,Completed
+O1371,2025-10-22,C071,P025,Nikos,Wholesale,11,15.87,0.03,11.61,45.0,0,Completed
+O1602,2025-06-12,C005,P027,Nikos,Wholesale,7,19.42,0.0,14.1,45.0,0,Completed
+O1011,2025-12-15,C005,P008,Eleni,Wholesale,12,9.08,0.03,4.55,45.0,0,Completed
+O1348,2025-10-10,C037,P005,Maria,Direct,11,9.46,0.05,4.91,60.0,0,Completed
+O1503,2025-03-08,C056,P035,Giorgos,Wholesale,9,21.37,0.02,12.08,60.0,0,Completed
+O1303,2025-01-29,C035,P018,Nikos,Wholesale,4,15.39,0.0,10.32,45.0,0,Completed
+O1424,2025-06-05,C086,P031,Maria,Wholesale,5,15.37,0.0,8.72,45.0,0,Completed
+O1373,2025-12-30,C032,P035,Maria,Wholesale,13,21.37,0.03,12.84,45.0,0,Completed
+O1469,2025-09-23,C059,P003,Eleni,Phone order,12,8.23,0.03,6.0,45.0,0,Completed
+O1232,2025-05-09,C036,P019,Maria,Direct,12,14.76,0.07,7.73,15.0,0,Completed
+O1043,2025-10-10,C048,P033,Eleni,Wholesale,11,17.67,0.05,10.27,15.0,0,Completed
+O1063,2025-06-05,C013,P027,Nikos,Wholesale,10,19.42,0.07,13.8,30.0,0,Completed
+O1492,2025-03-28,C044,P023,Maria,Wholesale,7,16.26,0.0,10.35,75.0,1,Completed
+O1060,2025-11-16,C017,P019,Eleni,Phone order,16,14.76,0.05,7.89,60.0,0,Completed
+O1417,2025-10-16,C048,P036,Nikos,Phone order,16,19.47,,11.27,45.0,0,Completed
+O1474,2025-01-15,C015,P031,Nikos,Wholesale,7,15.37,0.0,8.16,60.0,0,Completed
+O1135,2025-11-25,C016,P018,Eleni,Direct,15,15.39,0.03,10.45,30.0,0,Completed
+O1101,2025-10-20,C054,P019,Giorgos,Direct,7,14.76,0.0,7.73,30.0,0,Completed
+O1598,2025-01-16,C029,P007,Giorgos,Phone order,9,13.28,0.04,6.55,30.0,0,Completed
+O1292,2025-10-07,C029,P026,Eleni,Direct,12,16.04,0.1,9.68,45.0,0,Completed
+O1623,2025-06-04,C054,P015,Giorgos,Wholesale,8,21.66,0.0,10.65,30.0,0,Completed
+O1420,2025-12-17,C035,P026,Giorgos,Wholesale,12,16.04,0.05,9.95,60.0,0,Completed
+O1558,2025-02-07,C048,P033,Nikos,Wholesale,9,17.67,0.02,9.7,30.0,0,Completed
+O1629,2025-08-01,C011,P006,Giorgos,Wholesale,8,12.05,0.0,8.86,30.0,0,Completed
+O1615,2025-06-24,C090,P024,Maria,Wholesale,9,16.87,0.0,10.16,15.0,0,Completed
+O1240,2025-06-13,C031,P003,Eleni,Phone order,8,8.23,0.0,5.73,30.0,0,Completed
+O1503,2025-03-08,C027,P028,Eleni,Wholesale,6,20.02,0.0,10.46,15.0,0,Completed
+O1342,2025-02-24,C044,P004,Eleni,Wholesale,10,9.14,0.04,6.21,60.0,0,Completed
+O1333,2025-03-04,C020,P003,Eleni,Wholesale,13,8.23,0.03,5.91,45.0,0,Completed
+O1231,2025-03-14,C053,P019,Nikos,Wholesale,8,14.76,0.01,7.81,60.0,0,Completed
+O1360,2025-07-16,C003,P028,Giorgos,Wholesale,7,20.02,0.0,10.07,45.0,0,Completed
+O1646,2025-03-23,C077,P012,Eleni,Phone order,7,19.45,0.0,13.67,60.0,0,Completed
+O1483,2025-06-10,C029,P028,Maria,Direct,10,20.02,0.05,9.88,45.0,0,Completed
+O1250,2025-09-13,C087,P027,Giorgos,Wholesale,14,19.42,0.07,13.87,30.0,0,Completed
+O1012,2025-06-07,C062,P013,Giorgos,Wholesale,10,24.95,0.08,13.64,60.0,0,Completed
+O1546,2025-07-21,C050,P020,Giorgos,Phone order,9,11.89,0.0,7.46,45.0,0,Completed
+O1476,2025-04-21,C044,P009,Eleni,Wholesale,13,9.54,0.06,6.03,60.0,0,Completed
+O1026,2025-05-25,C046,P015,Giorgos,Wholesale,18,21.66,0.05,11.15,15.0,0,Completed
+O1290,2025-12-01,C071,P027,Giorgos,Wholesale,14,19.42,0.03,13.39,45.0,0,Completed
+O1005,2025-01-05,C073,P002,Nikos,Wholesale,4,8.02,0.0,5.67,45.0,0,Completed
+O1162,2025-05-16,C052,P028,Eleni,Direct,12,20.02,0.03,10.18,45.0,0,Completed
+O1253,2025-07-07,C042,P023,Nikos,Wholesale,15,16.26,0.06,10.41,45.0,0,Completed
+O1446,2025-10-19,C037,P014,Maria,Wholesale,7,17.99,0.0,8.88,45.0,0,Completed
+O1275,2025-05-28,C030,P007,Nikos,Wholesale,9,13.28,0.0,6.96,30.0,0,Completed
+O1193,2025-08-19,C018,P005,Eleni,Phone order,16,9.46,0.09,4.72,45.0,0,Completed
+O1643,2025-11-16,C036,P005,Nikos,Wholesale,11,9.46,0.08,4.75,30.0,0,Completed
+O1621,2025-02-19,C056,P020,Giorgos,Wholesale,11,11.89,0.07,7.3,45.0,0,Completed
+O1277,2025-06-23,C037,P001,Eleni,Direct,7,14.99,0.0,10.8,60.0,0,Completed
+O1542,2025-04-12,C030,P007,Giorgos,Wholesale,11,13.28,0.09,6.94,30.0,0,Completed
+O1568,2025-01-24,C030,P009,Nikos,Wholesale,3,9.54,0.02,6.23,60.0,0,Completed
+O1568,2025-06-20,C036,P007,Giorgos,Wholesale,14,13.28,0.05,6.67,30.0,0,Completed
+O1513,2025-03-18,C033,P020,Maria,Wholesale,10,11.89,0.12,7.51,60.0,0,Completed
+O1640,2025-11-10,C035,P006,Eleni,Wholesale,11,12.05,0.05,8.5,45.0,0,Completed
+O1057,2025-11-12,C058,P030,Eleni,Wholesale,7,14.56,0.0,8.21,30.0,0,Completed
+O1025,2025-09-17,C038,P006,Giorgos,Direct,9,12.05,0.0,8.78,45.0,0,Completed
+O1049,2025-06-03,C016,P036,Giorgos,Phone order,9,19.47,0.04,10.88,15.0,1,Completed
+O1176,2025-07-08,C036,P005,Eleni,Direct,5,9.46,0.0,4.61,30.0,0,Completed
+O1647,2025-08-02,C042,P002,Eleni,Direct,15,8.02,0.09,5.53,45.0,0,Completed
+O1112,2025-12-19,C016,P003,Nikos,Wholesale,12,8.23,0.05,6.1,30.0,0,Completed
+O1016,2025-05-16,C018,P031,Maria,Direct,12,15.37,0.05,8.28,30.0,0,Completed
+O1503,2025-10-26,C029,P022,Giorgos,Wholesale,11,15.11,0.1,9.65,15.0,0,Completed
+O1581,2025-11-19,C016,P029,Giorgos,Wholesale,13,17.56,0.09,12.53,15.0,0,Completed
+O1294,2025-12-15,C017,P001,Maria,Wholesale,8,14.99,0.0,10.73,30.0,0,Completed
+O1628,2025-12-25,C029,P022,Nikos,Wholesale,18,15.11,0.05,9.93,45.0,0,Completed
+O1035,2025-08-14,C021,P001,Eleni,Wholesale,6,14.99,0.0,10.28,45.0,0,Completed
+O1618,2025-07-31,C075,P003,Maria,Wholesale,13,8.23,0.04,6.12,60.0,0,Completed
+O1523,2025-11-10,C015,P006,Giorgos,Phone order,16,12.05,0.03,8.56,60.0,1,Partial return
+O1502,2025-02-01,C007,P019,Maria,Wholesale,11,14.76,0.03,7.57,30.0,1,Completed
+O1563,2025-10-15,C022,P005,Eleni,Phone order,14,9.46,0.04,4.88,60.0,1,Partial return
+O1064,2025-09-02,C062,P003,Giorgos,Wholesale,6,8.23,0.0,5.87,45.0,0,Completed
+O1149,2025-03-30,C037,P029,Giorgos,Phone order,16,17.56,0.05,12.55,30.0,0,Completed
+O1454,2025-06-25,C062,P013,Eleni,Direct,8,24.95,0.0,13.67,45.0,0,Completed
+O1175,2025-12-15,C034,P029,Eleni,Direct,21,17.56,0.03,12.21,45.0,0,Completed
+O1495,2025-04-09,C071,P007,Maria,Wholesale,5,13.28,0.0,6.63,45.0,0,Completed
+O1616,2025-06-02,C014,P017,Maria,Phone order,6,17.04,0.0,8.11,45.0,0,Completed
+O1538,2025-06-02,C017,P004,Eleni,Direct,8,9.14,0.0,5.91,45.0,0,Completed
+O1336,2025-12-20,C059,P011,Giorgos,Wholesale,13,16.3,0.08,11.54,30.0,0,Completed
+O1458,2025-06-28,C008,P002,Eleni,Wholesale,7,8.02,0.0,5.39,30.0,0,Completed
+O1290,2025-10-21,C016,P015,Giorgos,Phone order,15,21.66,0.03,10.53,15.0,0,Completed
+O1316,2025-07-22,C084,P023,Eleni,Phone order,13,16.26,0.07,10.85,,0,Completed
+O1228,2025-03-16,C058,P025,Eleni,Wholesale,11,15.87,0.03,11.53,30.0,0,Completed
+O1032,2025-02-10,C090,P027,Eleni,Phone order,11,19.42,0.09,13.55,15.0,0,Completed
+O1631,2025-12-02,C015,P030,Eleni,Direct,15,14.56,0.05,8.21,30.0,0,Completed
+O1461,2025-04-20,C044,P015,Maria,Phone order,16,21.66,0.06,11.12,45.0,0,Completed
+O1077,2025-05-19,C067,P015,Eleni,Wholesale,11,21.66,0.04,11.32,45.0,0,Completed
+O1304,2025-11-12,C025,P031,Maria,Wholesale,13,15.37,0.05,8.63,15.0,0,Completed
+O1161,2025-12-09,C089,P032,Maria,Direct,20,13.3,0.07,7.45,45.0,1,Completed
+O1335,2025-01-27,C039,P004,Nikos,Wholesale,20,9.14,0.06,5.93,45.0,1,Partial return
+O1231,2025-08-30,C068,P030,Nikos,Direct,11,14.56,0.05,8.26,30.0,0,Completed
+O1014,2025-03-12,C082,P034,Nikos,Phone order,9,21.54,0.01,11.49,60.0,0,Completed
+O1395,2025-03-22,C038,P020,Giorgos,Direct,9,11.89,0.0,7.69,60.0,0,Pending
+O1621,2025-09-01,C085,P035,Giorgos,Direct,8,21.37,0.01,12.0,45.0,0,Pending
+O1077,2025-05-28,C041,P032,Eleni,Wholesale,9,13.3,0.02,7.96,45.0,0,Completed
+O1503,2025-01-31,C085,P028,Nikos,Direct,7,20.02,0.03,10.28,60.0,0,Completed
+O1081,2025-04-29,C038,P026,Nikos,Phone order,10,16.04,0.05,9.49,45.0,0,Completed
+O1023,2025-03-31,C046,P010,Giorgos,Phone order,8,25.35,0.02,16.58,30.0,0,Completed
+O1363,2025-04-01,C007,P029,Nikos,Phone order,11,17.56,0.08,12.26,30.0,0,Completed
+O1590,2025-07-23,C082,P032,Giorgos,Wholesale,11,13.3,0.08,7.44,60.0,0,Completed
+O1576,2025-05-29,C080,P017,Nikos,Wholesale,9,17.04,0.0,8.17,45.0,0,Completed
+O1047,2025-10-18,C080,P005,Nikos,Phone order,6,9.46,0.0,4.62,45.0,0,Completed
+O1099,2025-06-21,C019,P030,Eleni,Wholesale,18,14.56,0.08,8.34,60.0,0,Completed
+O1108,2025-11-25,C034,P013,Giorgos,Phone order,13,24.95,0.05,13.53,30.0,3,Completed
+O1107,2025-03-10,C029,P008,Giorgos,Wholesale,9,9.08,0.04,4.59,30.0,0,Completed
+O1525,2025-02-27,C061,P024,Eleni,Wholesale,10,16.87,0.07,10.57,30.0,1,Completed
+O1348,2025-08-23,C052,P036,Eleni,Direct,13,19.47,0.09,11.63,45.0,0,Completed
+O1286,2025-01-08,C090,P008,Eleni,Direct,12,9.08,0.1,4.68,30.0,0,Completed
+O1336,2025-10-18,C003,P006,Maria,Wholesale,9,12.05,0.0,8.62,15.0,0,Completed
+O1314,2025-11-24,C051,P004,Giorgos,Phone order,11,9.14,0.08,6.23,45.0,0,Completed
+O1508,2025-09-21,C029,P022,Eleni,Wholesale,10,15.11,0.1,10.07,30.0,0,Completed
+O1559,2025-12-09,C056,P002,Nikos,Wholesale,10,8.02,0.07,5.36,60.0,0,Pending
+O1005,2025-03-13,C044,P028,Giorgos,Wholesale,14,20.02,0.04,10.3,60.0,0,Completed
+O1280,2025-05-08,C018,P020,Nikos,Wholesale,12,11.89,0.08,7.67,30.0,0,Completed
+O1376,2025-05-01,C026,P018,Giorgos,Direct,19,15.39,0.03,10.61,15.0,0,Completed
+O1566,2025-06-18,C062,P034,Eleni,Wholesale,5,21.54,0.0,11.08,45.0,0,Completed
+O1432,2025-10-21,C032,P008,Nikos,Wholesale,7,9.08,0.04,4.82,30.0,0,Completed
+O1475,2025-07-04,C016,P019,Maria,Wholesale,6,14.76,0.0,7.91,30.0,0,Completed
+O1063,2025-03-02,C025,P004,Giorgos,Wholesale,14,9.14,0.05,5.91,30.0,0,Completed
+O1180,2025-07-27,C028,P028,Eleni,Direct,8,20.02,0.02,10.07,30.0,0,Completed
+O1366,2025-11-24,C036,P021,Eleni,Wholesale,16,19.64,0.05,12.09,15.0,1,Partial return
+O1429,2025-04-24,C090,P019,Maria,Phone order,11,14.76,0.12,8.08,15.0,0,Completed
+O1045,2025-09-02,C043,P005,Maria,Wholesale,9,9.46,0.0,4.57,30.0,0,Completed
+O1333,2025-11-07,C030,P033,Eleni,Wholesale,13,17.67,0.12,9.8,30.0,0,Completed
+O1271,2025-10-09,C036,P009,Giorgos,Direct,13,9.54,0.05,6.28,30.0,0,Completed
+O1553,2025-12-07,C042,P017,Maria,Direct,10,17.04,0.06,8.3,60.0,0,Completed
+O1522,2025-12-15,C066,P019,Nikos,Wholesale,14,14.76,0.05,7.75,15.0,0,Completed
+O1081,2025-09-28,C017,P001,Eleni,Wholesale,11,14.99,0.05,10.8,45.0,1,Partial return
+O1526,2025-10-16,C074,P031,Nikos,Wholesale,7,15.37,0.0,8.13,30.0,0,Completed
+O1162,2025-10-08,C065,P003,Maria,Wholesale,10,8.23,0.08,5.85,30.0,0,Completed
+O1552,2025-03-18,C047,P036,Maria,Wholesale,8,19.47,0.0,11.42,15.0,1,Completed
+O1198,2025-09-24,C080,P031,Giorgos,Wholesale,7,15.37,0.0,8.3,30.0,0,Completed
+O1104,2025-04-16,C067,P008,Giorgos,Wholesale,9,9.08,0.0,4.82,60.0,0,Completed
+O1046,2025-09-19,C087,P019,Giorgos,Phone order,7,14.76,0.02,7.55,30.0,0,Completed
+O1318,2025-08-21,C023,P001,Maria,Wholesale,12,14.99,0.07,10.79,,0,Completed
+O1117,2025-08-22,C019,P015,Nikos,Wholesale,9,21.66,0.0,10.55,45.0,0,Completed
+O1528,2025-12-11,C088,P021,Eleni,Direct,11,19.64,0.05,12.93,30.0,0,Completed
+O1386,2025-07-22,C089,P025,Eleni,Phone order,10,15.87,0.09,10.81,,0,Completed
+O1429,2025-04-22,C057,P030,Nikos,Wholesale,15,14.56,0.04,7.93,75.0,0,Completed
+O1246,2025-06-26,C043,P019,Nikos,Wholesale,11,14.76,0.05,7.74,30.0,0,Completed
+O1466,2025-01-31,C055,P020,Nikos,Phone order,9,11.89,0.02,7.77,30.0,0,Completed
+O1468,2025-08-30,C033,P006,Nikos,Wholesale,9,12.05,,8.96,45.0,0,Completed
+O1507,2025-04-03,C085,P007,Maria,Direct,14,13.28,0.08,7.02,45.0,0,Completed
+O1470,2025-11-27,C035,P034,Giorgos,Wholesale,10,21.54,0.03,11.29,60.0,0,Completed
+O1573,2025-07-15,C036,P024,Giorgos,Phone order,8,16.87,0.04,10.3,30.0,0,Completed
+O1604,2025-07-13,C049,P019,Giorgos,Wholesale,8,14.76,0.0,8.0,45.0,0,Completed
+O1512,2025-12-05,C036,P034,Maria,Direct,17,21.54,0.05,10.75,15.0,0,Completed
+O1577,2025-06-28,C001,P015,Nikos,Wholesale,14,21.66,0.05,10.96,15.0,0,Completed
+O1382,2025-10-03,C054,P034,Giorgos,Wholesale,9,21.54,0.0,10.91,45.0,0,Completed
+O1218,2025-04-25,C040,P028,Nikos,Direct,5,20.02,0.0,10.24,45.0,0,Completed
+O1531,2025-06-02,C041,P023,Giorgos,Direct,14,16.26,0.05,10.8,45.0,2,Completed
+O1336,2025-10-06,C042,P031,Giorgos,Wholesale,14,15.37,0.08,8.59,75.0,0,Completed
+O1006,2025-04-28,C051,P005,Maria,Wholesale,12,9.46,0.08,4.69,30.0,0,Completed
+O1207,2025-03-21,C016,P026,Eleni,Wholesale,7,16.04,0.02,9.71,30.0,0,Completed
+O1344,2025-02-27,C019,P011,Nikos,Phone order,9,16.3,0.03,11.74,60.0,0,Completed
+O1086,2025-08-03,C061,P026,Nikos,Wholesale,10,16.04,0.05,10.04,30.0,0,Completed
+O1412,2025-02-04,C034,P004,Nikos,Wholesale,8,9.14,0.0,6.27,30.0,0,Completed
+O1442,2025-08-17,C063,P034,Nikos,Wholesale,9,21.54,0.0,10.87,45.0,0,Completed
+O1211,2025-01-23,C060,P007,Giorgos,Wholesale,9,13.28,0.0,6.97,45.0,0,Completed
+O1520,2025-10-04,C028,P022,Maria,Direct,12,15.11,0.03,10.0,30.0,0,Completed
+O1302,2025-01-29,C088,P001,Maria,Wholesale,11,14.99,0.03,10.37,30.0,0,Completed
+O1498,2025-05-29,C057,P009,Maria,Phone order,12,9.54,0.02,5.94,60.0,1,Completed
+O1243,2025-10-22,C040,P003,Eleni,Wholesale,8,8.23,0.0,6.07,30.0,0,Completed
+O1332,2025-12-11,C034,P031,Eleni,Wholesale,19,15.37,0.03,8.25,45.0,0,Completed
+O1444,2025-03-15,C012,P027,Maria,Wholesale,5,19.42,0.0,13.13,45.0,0,Completed
+O1241,2025-05-21,C084,P034,Nikos,Wholesale,13,21.54,0.02,11.54,75.0,0,Completed
+O1458,2025-10-30,C058,P022,Maria,Direct,12,15.11,0.05,9.98,60.0,0,Completed
+O1193,2025-08-07,C037,P009,Giorgos,Wholesale,12,9.54,0.03,6.3,30.0,0,Completed
+O1246,2025-06-26,C081,P015,Giorgos,Direct,9,21.66,0.0,11.21,45.0,0,Completed
+O1393,2025-06-13,C036,P036,Giorgos,Wholesale,7,19.47,0.02,11.11,15.0,0,Completed
+O1203,2025-06-03,C006,P007,Giorgos,Wholesale,15,13.28,0.05,6.9,30.0,0,Completed
+O1138,2025-10-03,C031,P035,Giorgos,Wholesale,11,21.37,0.03,12.59,45.0,0,Completed
+O1110,2025-04-26,C056,P013,Eleni,Phone order,7,24.95,0.02,14.12,30.0,0,Completed
+O1582,2025-03-15,C082,P004,Giorgos,Phone order,16,9.14,0.08,6.23,75.0,0,Completed
+O1178,2025-10-15,C030,P018,Giorgos,Phone order,8,15.39,0.0,10.8,45.0,0,Completed
+O1248,2025-10-13,C033,P001,Maria,Wholesale,10,14.99,0.07,10.85,45.0,0,Completed
+O1365,2025-05-11,C029,P018,Maria,Wholesale,12,15.39,0.05,10.49,30.0,0,Completed
+O1217,2025-02-10,C033,P007,Giorgos,Phone order,9,13.28,0.0,6.71,45.0,1,Partial return
+O1464,2025-02-17,C064,P032,Maria,Wholesale,11,13.3,0.03,7.92,30.0,0,Completed
+O1079,2025-07-13,C087,P027,Nikos,Phone order,10,19.42,0.08,14.06,15.0,0,Completed
+O1205,2025-04-07,C014,P007,Maria,Wholesale,8,13.28,0.0,7.04,45.0,0,Completed
+O1025,2025-06-20,C009,P016,Eleni,Phone order,10,19.23,0.07,9.79,45.0,0,Completed
+O1508,2025-01-08,C053,P002,Maria,Phone order,6,8.02,0.01,5.31,60.0,0,Completed
+O1506,2025-03-02,C079,P018,Giorgos,Phone order,8,15.39,0.02,10.84,45.0,0,Completed
+O1537,2025-12-23,C064,P009,Maria,Wholesale,10,9.54,0.03,5.83,45.0,3,Completed
+O1196,2025-05-03,C004,P015,Eleni,Direct,15,21.66,0.09,11.33,45.0,0,Completed
+O1239,2025-07-14,C028,P004,Giorgos,Wholesale,16,9.14,0.05,5.96,45.0,0,Completed
+O1350,2025-07-03,C025,P024,Eleni,Wholesale,13,16.87,0.03,10.45,30.0,0,Completed
+O1183,2025-09-20,C074,P009,Giorgos,Wholesale,10,9.54,0.1,6.13,30.0,0,Completed
+O1633,2025-08-29,C089,P002,Eleni,Phone order,14,8.02,0.1,5.54,30.0,0,Completed
+O1542,2025-07-09,C064,P016,Eleni,Wholesale,5,19.23,0.0,9.45,45.0,0,Completed
+O1647,2025-10-16,C011,P030,Maria,Direct,10,14.56,0.05,8.33,30.0,0,Completed
+O1637,2025-01-09,C038,P025,Eleni,Wholesale,8,15.87,0.0,10.84,45.0,3,Completed
+O1254,2025-10-27,C075,P007,Giorgos,Wholesale,5,13.28,0.0,6.9,45.0,0,Completed
+O1519,2025-04-11,C040,P013,Eleni,Wholesale,13,24.95,0.05,13.13,60.0,0,Completed
+O1068,2025-10-19,C030,P003,Maria,Wholesale,5,8.23,0.0,5.77,45.0,0,Completed
+O1626,2025-12-02,C029,P013,Eleni,Wholesale,16,24.95,0.05,13.24,30.0,0,Completed
+O1246,2025-09-08,C035,P021,Giorgos,Wholesale,9,19.64,0.0,12.62,60.0,0,Completed
+O1399,2025-06-30,C008,P003,Maria,Wholesale,10,8.23,0.03,5.88,15.0,0,Completed
+O1349,2025-10-07,C027,P019,Giorgos,Wholesale,7,14.76,0.0,7.65,45.0,0,Completed
+O1215,2025-10-05,C019,P022,Nikos,Wholesale,11,15.11,0.08,9.68,60.0,0,Completed
+O1538,2025-02-08,C019,P006,Nikos,Direct,5,12.05,0.01,8.65,45.0,0,Completed
+O1435,2025-07-31,C043,P033,Maria,Phone order,9,17.67,0.0,9.92,30.0,0,Completed
+O1234,2025-04-29,C077,P022,Nikos,Direct,13,15.11,0.08,9.92,45.0,0,Completed
+O1330,2025-01-05,C042,P028,Maria,Wholesale,16,20.02,0.02,9.7,45.0,0,Completed
+O1645,2025-07-11,C053,P016,Nikos,Direct,12,19.23,0.04,9.48,60.0,0,Completed
+O1131,2025-12-08,C022,P028,Giorgos,Direct,14,20.02,0.06,9.7,75.0,0,Completed
+O1589,2025-01-09,C038,P014,Nikos,Wholesale,12,17.99,0.05,8.81,60.0,0,Completed
+O1640,2025-07-30,C084,P035,Nikos,Wholesale,16,21.37,0.02,12.17,45.0,0,Completed
+O1184,2025-05-21,C071,P018,Eleni,Wholesale,8,15.39,0.0,10.92,60.0,0,Pending
+O1074,2025-12-24,C085,P003,Giorgos,Phone order,14,8.23,0.02,6.04,75.0,0,Completed
+O1224,2025-04-02,C062,P010,Nikos,Phone order,11,25.35,0.05,17.71,45.0,0,Completed
+O1390,2025-09-26,C035,P026,Maria,Wholesale,12,16.04,0.08,9.49,45.0,0,Completed
+O1219,2025-11-14,C054,P003,Eleni,Phone order,15,8.23,0.05,6.18,30.0,0,Completed
+O1136,2025-05-17,C074,P031,Giorgos,Wholesale,13,15.37,0.05,8.2,30.0,0,Pending
+O1338,2025-07-27,C009,P005,Giorgos,Wholesale,15,9.46,0.03,4.75,60.0,0,Completed
+O1002,2025-12-23,C074,P027,Maria,Wholesale,9,19.42,0.02,13.57,45.0,0,Completed
+O1493,2025-02-11,C069,P035,Nikos,Wholesale,10,21.37,0.05,12.45,30.0,1,Completed
+O1432,2025-07-14,C024,P024,Giorgos,Wholesale,12,16.87,0.03,10.27,45.0,0,Pending
+O1012,2025-01-29,C051,P008,Nikos,Direct,4,9.08,0.0,4.72,45.0,1,Partial return
+O1024,2025-02-12,C042,P024,Giorgos,Phone order,11,16.87,0.04,10.31,45.0,0,Completed
+O1209,2025-11-27,C055,P005,Eleni,Wholesale,13,9.46,0.07,4.85,45.0,0,Completed
+O1609,2025-02-18,C042,P015,Nikos,Wholesale,10,21.66,0.04,11.24,45.0,0,Completed
+O1297,2025-12-21,C039,P002,Giorgos,Wholesale,13,8.02,0.07,5.45,45.0,0,Completed
+O1197,2025-02-08,C029,P019,Eleni,Phone order,13,14.76,0.05,8.06,30.0,0,Completed
+O1280,2025-10-16,C033,P008,Nikos,Wholesale,12,9.08,0.05,4.59,45.0,0,Completed
+O1208,2025-06-11,C036,P014,Nikos,Phone order,10,17.99,0.05,8.94,30.0,0,Completed
+O1026,2025-10-28,C048,P024,Maria,Direct,14,16.87,0.12,10.37,15.0,3,Completed
+O1565,2025-12-31,C015,P003,Giorgos,Phone order,12,8.23,0.05,5.83,45.0,0,Completed
+O1447,2025-06-03,C038,P002,Maria,Wholesale,9,8.02,0.0,5.54,45.0,0,Completed
+O1027,2025-10-18,C025,P001,Giorgos,Direct,7,14.99,0.0,10.99,30.0,0,Completed
+O1246,2025-10-04,C004,P017,Eleni,Wholesale,8,17.04,0.0,8.38,30.0,0,Completed
+O1608,2025-03-13,C090,P011,Nikos,Wholesale,8,16.3,0.04,11.31,30.0,0,Completed
+O1451,2025-06-27,C054,P024,Nikos,Wholesale,11,16.87,0.05,10.72,45.0,0,Completed
+O1163,2025-04-29,C068,P014,Nikos,Wholesale,14,17.99,0.08,8.78,45.0,0,Completed
+O1018,2025-11-11,C072,P026,Giorgos,Phone order,11,16.04,0.05,9.67,45.0,0,Completed
+O1563,2025-06-17,C006,P019,Nikos,Direct,5,14.76,0.02,7.82,45.0,0,Completed
+O1355,2025-08-19,C050,P024,Giorgos,Wholesale,7,16.87,0.0,10.39,45.0,0,Completed
+O1335,2025-10-11,C003,P004,Giorgos,Wholesale,8,9.14,0.0,6.2,15.0,0,Completed
+O1524,2025-12-15,C023,P009,Giorgos,Wholesale,8,9.54,,6.03,45.0,1,Partial return
+O1376,2025-11-13,C061,P032,Eleni,Direct,7,13.3,0.02,7.84,30.0,0,Pending
+O1518,2025-02-07,C072,P035,Nikos,Wholesale,9,21.37,0.0,12.23,60.0,0,Completed
+O1614,2025-07-14,C068,P022,Maria,Direct,8,15.11,0.0,9.6,30.0,0,Pending
+O1306,2025-06-12,C072,P022,Eleni,Wholesale,7,15.11,0.0,9.77,60.0,0,Completed
+O1179,2025-01-03,C041,P008,Eleni,Wholesale,11,9.08,0.05,4.87,45.0,0,Completed
+O1475,2025-05-19,C047,P027,Nikos,Wholesale,12,19.42,0.05,13.63,15.0,0,Completed
+O1127,2025-04-06,C031,P009,Giorgos,Wholesale,12,9.54,0.03,5.97,30.0,0,Completed
+O1602,2025-10-12,C071,P032,Giorgos,Wholesale,10,13.3,0.08,7.68,45.0,0,Completed
+O1047,2025-02-15,C056,P028,Eleni,Wholesale,9,20.02,,10.21,45.0,0,Completed
+O1051,2025-11-02,C047,P007,Eleni,Phone order,16,13.28,0.05,6.75,30.0,0,Pending
+O1298,2025-01-07,C051,P020,Eleni,Wholesale,6,11.89,0.0,7.82,45.0,0,Completed
+O1477,2025-02-13,C074,P010,Maria,Wholesale,6,25.35,0.04,17.73,30.0,0,Completed
+O1194,2025-03-28,C001,P017,Giorgos,Wholesale,6,17.04,0.0,8.66,45.0,0,Completed
+O1579,2025-05-18,C086,P012,Eleni,Wholesale,9,19.45,0.0,14.17,30.0,0,Completed
+O1404,2025-03-16,C089,P021,Nikos,Wholesale,9,19.64,0.04,12.55,15.0,0,Completed
+O1455,2025-05-22,C060,P020,Giorgos,Wholesale,18,11.89,0.05,7.45,15.0,0,Completed
+O1233,2025-02-09,C033,P022,Eleni,Wholesale,17,15.11,0.12,9.45,60.0,0,Completed
+O1407,2025-05-07,C018,P012,Giorgos,Wholesale,9,19.45,0.02,13.74,60.0,0,Completed
+O1614,2025-04-11,C083,P035,Giorgos,Wholesale,11,21.37,0.07,12.9,30.0,0,Completed
+O1308,2025-06-05,C016,P021,Nikos,Phone order,13,19.64,0.05,12.77,30.0,0,Completed
+O1250,2025-06-20,C054,P025,Giorgos,Phone order,7,15.87,0.0,11.55,30.0,0,Completed
+O1007,2025-06-18,C019,P020,Giorgos,Wholesale,14,11.89,0.04,7.35,45.0,0,Completed
+O1221,2025-11-30,C006,P015,Maria,Wholesale,12,21.66,0.05,10.94,30.0,0,Completed
+O1381,2025-11-05,C046,P020,Maria,Wholesale,17,11.89,0.05,7.41,30.0,0,Completed
+O1138,2025-04-01,C003,P017,Giorgos,Phone order,13,17.04,0.03,8.02,15.0,1,Partial return
+O1497,2025-05-30,C025,P013,Giorgos,Phone order,8,24.95,0.0,13.62,30.0,0,Pending
+O1367,2025-05-05,C079,P032,Eleni,Wholesale,8,13.3,0.02,7.43,45.0,1,Partial return
+O1350,2025-07-21,C016,P010,Eleni,Wholesale,11,25.35,,17.34,30.0,0,Completed
+O1051,2025-10-16,C011,P020,Maria,Wholesale,3,11.89,0.0,7.34,45.0,0,Completed
+O1598,2025-10-07,C081,P007,Maria,Direct,5,13.28,0.0,6.59,45.0,0,Completed
+O1243,2025-10-09,C018,P018,Nikos,Phone order,11,15.39,0.1,10.32,45.0,1,Partial return
+O1112,2025-08-25,C028,P014,Maria,Wholesale,13,17.99,0.09,8.61,15.0,0,Completed
+O1647,2025-05-30,C072,P021,Nikos,Phone order,9,19.64,0.0,12.86,45.0,0,Completed
+O1186,2025-07-29,C051,P032,Giorgos,Wholesale,9,13.3,0.0,7.53,30.0,0,Completed
+O1161,2025-06-05,C085,P025,Maria,Wholesale,17,15.87,0.02,11.14,75.0,1,Partial return
+O1501,2025-03-20,C085,P007,Giorgos,Direct,11,13.28,0.04,6.94,45.0,0,Completed
+O1645,2025-02-07,C083,P026,Giorgos,Phone order,12,16.04,0.05,9.79,45.0,2,Completed
+O1334,2025-09-03,C029,P011,Giorgos,Wholesale,9,16.3,0.02,11.24,15.0,0,Completed
+O1326,2025-12-21,C009,P027,Giorgos,Wholesale,16,19.42,0.08,13.44,45.0,0,Completed
+O1533,2025-07-04,C084,P025,Nikos,Wholesale,9,15.87,0.0,10.88,45.0,0,Completed
+O1098,2025-05-08,C085,P035,Eleni,Wholesale,12,21.37,0.09,12.25,60.0,0,Completed
+O1214,2025-11-10,C024,P002,Nikos,Wholesale,9,8.02,0.0,5.59,45.0,1,Partial return
+O1046,2025-11-27,C010,P011,Giorgos,Phone order,12,16.3,0.03,11.53,45.0,0,Completed
+O1468,2025-06-19,C052,P026,Giorgos,Wholesale,14,16.04,0.07,9.85,45.0,0,Completed
+O1482,2025-02-20,C070,P035,Eleni,Wholesale,6,21.37,0.0,12.45,75.0,0,Completed
+O1132,2025-09-23,C032,P002,Maria,Wholesale,12,8.02,0.09,5.6,30.0,0,Completed
+O1316,2025-07-20,C023,P003,Giorgos,Direct,12,8.23,0.05,5.94,60.0,0,Completed
+O1493,2025-10-29,C043,P023,Maria,Wholesale,10,16.26,0.05,10.6,60.0,0,Completed
+O1519,2025-01-13,C023,P022,Giorgos,Wholesale,11,15.11,0.1,9.41,30.0,0,Completed
+O1081,2025-08-01,C077,P030,Nikos,Wholesale,10,14.56,0.08,8.4,45.0,0,Completed
+O1476,2025-03-14,C067,P018,Eleni,Wholesale,9,15.39,0.0,10.63,45.0,0,Completed
+O1352,2025-08-22,C042,P026,Maria,Wholesale,12,16.04,0.02,9.65,45.0,0,Completed
+O1317,2025-06-28,C049,P024,Giorgos,Wholesale,12,16.87,0.08,10.77,15.0,1,Partial return
+O1226,2025-12-23,C089,P028,Giorgos,Wholesale,15,20.02,0.05,9.88,30.0,0,Completed
+O1017,2025-06-03,C010,P024,Nikos,Phone order,12,16.87,0.08,10.6,60.0,0,Completed
+O1374,2025-02-28,C083,P028,Nikos,Phone order,7,20.02,0.02,10.4,45.0,0,Completed
+O1617,2025-11-28,C053,P008,Nikos,Direct,9,9.08,0.03,4.87,60.0,0,Completed
+O1450,2025-03-26,C044,P002,Maria,Wholesale,8,8.02,0.0,5.29,45.0,0,Pending
+O1544,2025-10-10,C003,P025,Maria,Wholesale,10,15.87,0.03,11.46,15.0,0,Completed
+O1010,2025-08-07,C081,P025,Giorgos,Wholesale,11,15.87,0.05,11.17,45.0,0,Completed
+O1008,2025-07-27,C023,P033,Maria,Wholesale,10,17.67,0.1,9.88,45.0,0,Completed
+O1562,2025-12-03,C055,P030,Giorgos,Wholesale,13,14.56,0.07,8.25,60.0,0,Completed
+O1581,2025-11-11,C069,P011,Maria,Wholesale,11,16.3,0.03,11.41,45.0,1,Partial return
+O1543,2025-08-08,C004,P029,Giorgos,Wholesale,11,17.56,0.03,12.89,30.0,0,Completed
+O1372,2025-04-20,C082,P036,Maria,Wholesale,17,19.47,0.08,11.06,60.0,0,Completed
+O1146,2025-12-27,C072,P006,Nikos,Wholesale,13,12.05,0.03,8.51,30.0,1,Partial return
+O1135,2025-10-02,C002,P009,Maria,Wholesale,8,9.54,0.0,5.93,30.0,0,Completed
+O1571,2025-04-11,C024,P022,Giorgos,Wholesale,10,15.11,0.03,10.11,15.0,0,Completed
+O1614,2025-12-10,C025,P012,Giorgos,Wholesale,9,19.45,0.0,13.4,30.0,0,Completed
+O1170,2025-11-24,C018,P010,Eleni,Wholesale,11,25.35,0.07,17.42,30.0,0,Completed
+O1516,2025-11-09,C007,P006,Giorgos,Wholesale,18,12.05,0.03,8.35,30.0,0,Completed
+O1345,2025-06-28,C036,P036,Eleni,Phone order,13,19.47,0.07,11.44,30.0,0,Completed
+O1222,2025-11-13,C066,P008,Maria,Phone order,14,9.08,0.03,4.73,15.0,0,Completed
+O1558,2025-12-28,C065,P021,Eleni,Phone order,14,19.64,0.03,12.32,30.0,0,Completed
+O1380,2025-10-30,C044,P015,Nikos,Direct,7,21.66,0.03,11.05,60.0,0,Completed
+O1424,2025-06-10,C023,P017,Nikos,Wholesale,9,17.04,0.02,8.23,45.0,0,Completed
+O1425,2025-03-01,C046,P023,Maria,Wholesale,11,16.26,0.07,10.86,30.0,0,Completed
+O1145,2025-03-14,C082,P011,Giorgos,Wholesale,9,16.3,0.03,10.98,45.0,0,Completed
+O1263,2025-03-12,C023,P003,Giorgos,Wholesale,12,8.23,0.07,5.83,45.0,0,Completed
+O1529,2025-09-07,C052,P036,Maria,Wholesale,8,19.47,0.04,10.98,60.0,0,Completed
+O1025,2025-09-08,C078,P020,Eleni,Wholesale,16,11.89,0.02,7.41,60.0,0,Completed
+O1329,2025-06-11,C069,P003,Giorgos,Direct,10,8.23,0.03,5.93,30.0,0,Completed
+O1420,2025-07-03,C065,P007,Nikos,Wholesale,6,13.28,0.0,6.9,60.0,0,Completed
+O1299,2025-04-10,C072,P021,Giorgos,Phone order,12,19.64,0.03,12.89,45.0,1,Completed
+O1309,2025-09-16,C015,P023,Giorgos,Wholesale,7,16.26,0.0,10.63,45.0,0,Completed
+O1340,2025-09-09,C085,P025,Giorgos,Direct,12,15.87,0.02,10.95,45.0,1,Partial return
+O1550,2025-08-16,C090,P013,Giorgos,Wholesale,10,24.95,0.07,13.93,30.0,0,Completed
+O1248,2025-10-17,C039,P036,Nikos,Direct,22,19.47,0.06,11.06,60.0,0,Completed
+O1391,2025-04-23,C074,P023,Eleni,Wholesale,7,16.26,0.02,11.1,30.0,0,Completed
+O1065,2025-04-26,C082,P022,Eleni,Wholesale,10,15.11,0.04,9.43,60.0,0,Completed
+O1135,2025-08-23,C087,P020,Giorgos,Wholesale,8,11.89,0.04,7.84,45.0,0,Completed
+O1543,2025-02-27,C032,P014,Nikos,Wholesale,11,17.99,0.05,8.73,45.0,0,Completed
+O1328,2025-10-06,C070,P007,Eleni,Wholesale,11,13.28,0.06,6.75,45.0,0,Completed
+O1535,2025-01-22,C007,P014,Giorgos,Wholesale,7,17.99,0.0,9.27,30.0,0,Completed
+O1018,2025-08-06,C082,P002,Nikos,Direct,12,8.02,0.02,5.47,75.0,1,Partial return
+O1044,2025-12-01,C019,P018,Maria,Wholesale,10,15.39,0.06,10.7,45.0,0,Completed
+O1449,2025-01-17,C054,P007,Giorgos,Wholesale,9,13.28,0.02,6.6,45.0,0,Completed
+O1266,2025-02-14,C051,P016,Giorgos,Phone order,9,19.23,0.0,9.69,45.0,0,Completed
+O1624,2025-03-02,C048,P030,Maria,Wholesale,10,14.56,0.07,8.26,30.0,0,Completed
+O1365,2025-10-29,C085,P031,Eleni,Phone order,7,15.37,0.0,8.64,60.0,0,Completed
+O1519,2025-11-09,C063,P013,Giorgos,Wholesale,14,24.95,0.08,13.61,45.0,0,Completed
+O1031,2025-03-13,C013,P016,Maria,Phone order,7,19.23,0.02,9.5,15.0,0,Completed
+O1619,2025-01-31,C022,P026,Eleni,Wholesale,8,16.04,0.01,9.75,45.0,0,Completed
+O1293,2025-11-02,C003,P001,Maria,Wholesale,12,14.99,0.05,10.61,30.0,0,Completed
+O1083,2025-12-27,C035,P018,Eleni,Wholesale,16,15.39,0.03,10.82,30.0,0,Completed
+O1075,2025-05-17,C010,P028,Nikos,Wholesale,11,20.02,0.03,10.46,30.0,2,Completed
+O1606,2025-07-30,C083,P019,Nikos,Phone order,8,14.76,0.02,7.51,60.0,0,Completed
+O1191,2025-12-02,C089,P011,Maria,Direct,13,16.3,0.1,11.72,30.0,0,Completed
+O1450,2025-03-09,C014,P009,Maria,Wholesale,9,9.54,0.0,6.29,75.0,0,Completed
+O1137,2025-06-14,C018,P019,Maria,Direct,13,14.76,0.07,7.77,45.0,0,Completed
+O1319,2025-12-13,C046,P029,Giorgos,Wholesale,16,17.56,0.09,12.36,45.0,0,Completed
+O1461,2025-10-23,C048,P003,Eleni,Direct,12,8.23,0.12,5.99,45.0,0,Completed
+O1429,2025-07-12,C031,P024,Giorgos,Wholesale,6,16.87,0.0,10.52,45.0,0,Completed
+O1528,2025-02-17,C072,P029,Giorgos,Wholesale,9,17.56,0.0,12.9,45.0,0,Completed
+O1515,2025-05-23,C020,P012,Eleni,Wholesale,16,19.45,0.05,13.46,30.0,0,Completed
+O1464,2025-09-07,C060,P015,Eleni,Wholesale,9,21.66,0.0,11.2,45.0,0,Completed
+O1393,2025-02-17,C086,P018,Giorgos,Direct,7,15.39,0.0,10.22,45.0,0,Completed
+O1093,2025-12-24,C084,P014,Eleni,Phone order,6,17.99,0.0,8.8,45.0,0,Completed
+O1500,2025-10-01,C011,P034,Giorgos,Wholesale,12,21.54,0.03,10.87,30.0,0,Completed
+O1142,2025-08-08,C035,P033,Maria,Wholesale,17,17.67,0.03,10.14,45.0,0,Completed
+O1460,2025-06-15,C035,P019,Eleni,Wholesale,13,14.76,0.03,7.69,45.0,0,Completed
+O1086,2025-10-23,C031,P036,Maria,Wholesale,15,19.47,0.05,11.05,30.0,0,Completed
+O1599,2025-09-06,C020,P008,Eleni,Phone order,7,9.08,0.0,4.78,60.0,0,Completed
+O1568,2025-01-25,C076,P003,Nikos,Wholesale,11,8.23,0.05,5.75,30.0,0,Pending
+O1311,2025-08-24,C002,P005,Nikos,Wholesale,11,9.46,0.05,4.61,45.0,2,Completed
+O1600,2025-03-22,C052,P006,Giorgos,Wholesale,11,12.05,0.05,8.79,,0,Completed
+O1510,2025-08-08,C009,P028,Maria,Phone order,13,20.02,0.07,9.82,45.0,0,Completed
+O1387,2025-03-09,C047,P004,Eleni,Wholesale,9,9.14,0.0,5.98,45.0,0,Completed
+O1058,2025-05-21,C054,P006,Nikos,Direct,11,12.05,0.03,8.82,45.0,0,Completed
+O1184,2025-05-09,C021,P001,Nikos,Wholesale,9,14.99,0.0,10.48,45.0,0,Completed
+O1077,2025-11-29,C030,P004,Maria,Wholesale,13,9.14,0.05,6.26,30.0,1,Partial return
+O1208,2025-11-17,C025,P027,Eleni,Direct,12,19.42,0.03,13.26,15.0,0,Completed
+O1146,2025-04-30,C019,P020,Giorgos,Direct,10,11.89,0.02,7.38,45.0,0,Pending
+O1195,2025-12-27,C049,P004,Nikos,Wholesale,18,9.14,0.08,6.04,15.0,0,Completed
+O1381,2025-09-02,C057,P014,Nikos,Wholesale,8,17.99,0.0,8.67,60.0,0,Completed
+O1233,2025-04-26,C072,P036,Giorgos,Wholesale,12,19.47,0.05,11.48,45.0,1,Partial return
+O1282,2025-12-23,C057,P024,Eleni,Phone order,16,16.87,,10.7,45.0,0,Completed
+O1532,2025-08-05,C054,P012,Maria,Wholesale,20,19.45,0.07,13.57,45.0,0,Completed
+O1400,2025-04-28,C056,P036,Giorgos,Wholesale,11,19.47,0.07,11.4,30.0,0,Completed
+O1625,2025-02-22,C019,P032,Nikos,Wholesale,7,13.3,0.0,7.74,60.0,0,Completed
+O1473,2025-06-03,C039,P012,Maria,Wholesale,5,19.45,0.03,14.01,45.0,2,Completed
+O1618,2025-03-10,C083,P013,Maria,Wholesale,9,24.95,0.04,13.31,30.0,0,Completed
+O1466,2025-10-16,C072,P009,Nikos,Direct,15,9.54,0.03,5.9,45.0,0,Completed
+O1446,2025-03-26,C036,P027,Giorgos,Wholesale,10,19.42,0.05,13.99,30.0,0,Completed
+O1339,2025-04-20,C031,P002,Maria,Phone order,10,8.02,0.03,5.7,30.0,0,Completed
+O1584,2025-11-12,C006,P028,Giorgos,Phone order,11,20.02,0.08,9.68,30.0,0,Pending
+O1168,2025-02-14,C090,P018,Nikos,Wholesale,9,15.39,0.02,10.79,30.0,0,Completed
+O1193,2025-03-05,C067,P030,Giorgos,Wholesale,6,14.56,0.0,8.0,75.0,0,Completed
+O1249,2025-08-08,C009,P006,Eleni,Direct,7,12.05,0.02,8.76,45.0,0,Completed
+O1255,2025-05-07,C055,P015,Eleni,Direct,14,21.66,0.05,11.2,45.0,0,Pending
+O1456,2025-05-08,C033,P030,Eleni,Direct,11,14.56,0.03,8.06,60.0,0,Completed
+O1540,2025-12-20,C059,P013,Nikos,Phone order,15,24.95,0.05,13.45,30.0,0,Completed
+O1183,2025-12-04,C072,P006,Eleni,Wholesale,10,12.05,0.03,8.46,45.0,0,Completed
+O1166,2025-11-07,C080,P021,Maria,Direct,16,19.64,0.03,12.87,45.0,1,Partial return
+O1454,2025-06-01,C036,P023,Nikos,Direct,9,16.26,0.02,10.36,30.0,0,Completed
+O1513,2025-05-03,C051,P023,Giorgos,Wholesale,6,16.26,0.0,10.67,30.0,0,Completed
+O1057,2025-05-04,C025,P012,Giorgos,Direct,16,19.45,0.05,13.78,30.0,2,Completed
+O1001,2025-02-06,C068,P017,Nikos,Phone order,9,17.04,0.0,8.16,15.0,0,Completed
+O1516,2025-06-12,C073,P012,Maria,Wholesale,12,19.45,0.05,14.42,30.0,0,Completed
+O1266,2025-10-19,C029,P029,Giorgos,Wholesale,3,17.56,0.04,12.27,30.0,0,Completed
+O1076,2025-12-16,C058,P009,Maria,Direct,14,9.54,0.05,5.89,45.0,0,Completed
+O1566,2025-02-07,C085,P003,Nikos,Wholesale,9,8.23,0.03,6.08,45.0,0,Completed
+O1522,2025-01-08,C063,P007,Eleni,Wholesale,8,13.28,0.0,6.78,45.0,0,Completed
+O1562,2025-01-31,C068,P034,Giorgos,Wholesale,9,21.54,0.0,11.21,15.0,1,Partial return
+O1617,2025-11-18,C076,P024,Giorgos,Wholesale,10,16.87,0.05,10.67,60.0,0,Completed
+O1524,2025-07-25,C055,P020,Nikos,Direct,13,11.89,0.05,7.55,45.0,0,Completed
+O1081,2025-10-03,C080,P020,Maria,Wholesale,12,11.89,0.05,7.39,45.0,0,Completed
+O1501,2025-06-08,C005,P022,Nikos,Wholesale,8,15.11,0.0,9.43,45.0,0,Completed
+O1420,2025-04-15,C069,P005,Maria,Wholesale,11,9.46,0.03,4.66,45.0,3,Completed
+O1049,2025-07-20,C048,P020,Nikos,Wholesale,7,11.89,0.04,7.55,30.0,0,Completed
+O1516,2025-08-12,C007,P028,Maria,Wholesale,11,20.02,0.03,9.98,30.0,0,Completed
+O1270,2025-02-14,C019,P024,Giorgos,Wholesale,11,16.87,,10.9,45.0,0,Completed
+O1468,2025-11-10,C018,P004,Nikos,Wholesale,18,9.14,0.07,6.18,30.0,0,Completed
+O1535,2025-12-03,C052,P029,Maria,Wholesale,19,17.56,0.05,12.96,60.0,3,Completed
+O1362,2025-12-29,C014,P004,Maria,Direct,11,9.14,0.04,5.95,45.0,0,Completed
+O1454,2025-03-25,C022,P024,Giorgos,Phone order,11,16.87,0.11,10.27,45.0,0,Completed
+O1380,2025-09-25,C028,P022,Eleni,Wholesale,8,15.11,0.0,9.56,30.0,0,Completed
+O1416,2025-03-06,C030,P036,Eleni,Direct,11,19.47,0.09,11.08,60.0,0,Completed
+O1031,2025-03-02,C020,P017,Nikos,Wholesale,5,17.04,0.0,8.36,60.0,0,Completed
+O1301,2025-08-08,C004,P029,Eleni,Wholesale,7,17.56,,12.22,30.0,0,Completed
+O1112,2025-05-15,C038,P026,Nikos,Wholesale,11,16.04,0.03,10.1,30.0,0,Completed
+O1210,2025-09-19,C069,P030,Eleni,Wholesale,7,14.56,0.0,8.32,30.0,0,Completed
+O1371,2025-10-18,C024,P021,Maria,Wholesale,8,19.64,0.0,13.06,30.0,0,Completed
+O1285,2025-05-11,C043,P025,Nikos,Phone order,14,15.87,0.05,11.49,45.0,0,Completed
+O1435,2025-12-12,C036,P007,Nikos,Wholesale,20,13.28,0.07,6.65,30.0,0,Completed
+O1233,2025-09-18,C034,P033,Nikos,Wholesale,11,17.67,0.05,9.95,60.0,0,Completed
+O1633,2025-01-07,C032,P032,Maria,Wholesale,10,13.3,0.07,7.43,30.0,0,Completed
+O1246,2025-07-06,C040,P023,Giorgos,Phone order,11,16.26,0.05,10.84,45.0,0,Completed
+O1303,2025-04-02,C076,P011,Nikos,Wholesale,11,16.3,0.05,10.92,60.0,0,Completed
+O1494,2025-12-02,C030,P035,Giorgos,Wholesale,10,21.37,0.03,12.94,30.0,0,Completed
+O1209,2025-05-08,C017,P015,Giorgos,Phone order,14,21.66,0.08,11.07,60.0,0,Pending
+O1406,2025-06-13,C035,P024,Eleni,Phone order,6,16.87,0.0,10.35,30.0,0,Completed
+O1535,2025-10-20,C071,P033,Eleni,Wholesale,13,17.67,0.03,9.8,30.0,0,Completed
+O1581,2025-12-11,C053,P023,Nikos,Wholesale,17,16.26,0.04,10.82,60.0,0,Completed
+O1167,2025-09-22,C031,P023,Nikos,Phone order,8,16.26,0.0,10.3,45.0,0,Completed
+O1036,2025-02-05,C072,P006,Giorgos,Phone order,8,12.05,0.0,8.4,45.0,0,Completed
+O1066,2025-06-09,C032,P020,Eleni,Wholesale,7,11.89,0.02,7.39,45.0,1,Completed
+O1163,2025-08-22,C087,P019,Nikos,Wholesale,10,14.76,0.05,7.83,15.0,0,Completed
+O1446,2025-05-30,C019,P013,Eleni,Direct,7,24.95,0.01,13.8,45.0,0,Completed
+O1015,2025-05-05,C013,P030,Giorgos,Wholesale,13,14.56,0.09,8.2,45.0,0,Completed
+O1525,2025-09-10,C027,P022,Maria,Direct,13,15.11,0.03,9.98,30.0,0,Completed
+O1205,2025-10-07,C028,P023,Maria,Wholesale,9,16.26,0.04,10.98,45.0,0,Completed
+O1100,2025-07-29,C064,P005,Nikos,Wholesale,9,9.46,0.0,4.75,45.0,0,Completed
+O1519,2025-06-27,C051,P009,Nikos,Phone order,8,9.54,0.0,6.01,30.0,1,Partial return
+O1612,2025-01-01,C045,P006,Giorgos,Phone order,9,12.05,0.0,8.88,45.0,0,Completed
+O1004,2025-06-07,C033,P022,Nikos,Wholesale,13,15.11,0.05,9.58,30.0,1,Partial return
+O1438,2025-05-02,C039,P024,Giorgos,Wholesale,13,16.87,0.04,10.53,60.0,0,Completed
+O1306,2025-01-31,C009,P005,Maria,Direct,13,9.46,0.07,4.78,60.0,0,Completed
+O1416,2025-02-17,C066,P035,Nikos,Phone order,6,21.37,0.0,12.01,30.0,0,Completed
+O1226,2025-09-24,C077,P005,Giorgos,Direct,9,9.46,0.0,4.66,60.0,3,Completed
+O1480,2025-07-10,C021,P015,Giorgos,Phone order,9,21.66,0.0,10.78,45.0,1,Completed
+O1557,2025-02-13,C023,P005,Nikos,Wholesale,9,9.46,0.02,4.86,45.0,0,Completed
+O1603,2025-11-23,C058,P009,Giorgos,Wholesale,16,9.54,0.05,5.95,30.0,1,Partial return
+O1077,2025-10-18,C045,P022,Nikos,Wholesale,8,15.11,0.0,9.85,45.0,0,Completed
+O1630,2025-03-08,C061,P022,Maria,Wholesale,14,15.11,0.05,9.61,30.0,0,Completed
+O1520,2025-06-11,C018,P005,Giorgos,Direct,7,9.46,0.02,4.78,60.0,0,Completed
+O1560,2025-06-17,C073,P023,Eleni,Wholesale,12,16.26,0.08,10.58,30.0,0,Completed
+O1109,2025-04-30,C056,P030,Nikos,Phone order,16,14.56,0.05,8.03,,0,Completed
+O1435,2025-03-11,C045,P002,Nikos,Wholesale,13,8.02,0.05,5.46,45.0,0,Completed
+O1023,2025-03-26,C063,P005,Giorgos,Wholesale,9,9.46,0.0,4.65,30.0,0,Completed
+O1118,2025-07-28,C048,P025,Nikos,Wholesale,15,15.87,0.05,10.92,30.0,0,Completed
+O1405,2025-04-17,C008,P004,Giorgos,Wholesale,10,9.14,0.03,6.34,30.0,0,Completed
+O1558,2025-05-16,C061,P028,Nikos,Wholesale,13,20.02,0.03,9.98,30.0,0,Completed
+O1058,2025-12-18,C027,P006,Eleni,Phone order,13,12.05,0.08,8.76,15.0,0,Completed
+O1400,2025-12-23,C060,P034,Nikos,Wholesale,12,21.54,0.03,11.52,15.0,0,Completed
+O1096,2025-06-17,C001,P029,Maria,Wholesale,10,17.56,0.08,12.06,15.0,0,Completed
+O1420,2025-05-08,C059,P034,Eleni,Wholesale,9,21.54,0.0,11.28,60.0,0,Completed
+O1472,2025-01-26,C072,P022,Eleni,Wholesale,4,15.11,0.0,10.05,30.0,0,Completed
+O1580,2025-03-31,C040,P034,Nikos,Phone order,16,21.54,0.05,11.4,45.0,0,Completed
+O1022,2025-08-20,C055,P021,Maria,Wholesale,6,19.64,0.02,12.27,45.0,0,Completed
+O1592,2025-02-22,C027,P001,Maria,Wholesale,8,14.99,0.0,10.75,30.0,0,Completed
+O1299,2025-02-01,C061,P032,Maria,Wholesale,13,13.3,0.07,7.82,30.0,0,Completed
+O1070,2025-07-25,C072,P010,Eleni,Direct,12,25.35,0.08,16.86,45.0,0,Completed
+O1621,2025-11-27,C051,P033,Nikos,Wholesale,12,17.67,0.05,9.98,30.0,0,Completed
+O1089,2025-05-13,C090,P020,Nikos,Wholesale,9,11.89,0.02,7.5,45.0,0,Completed
+O1093,2025-02-03,C022,P004,Maria,Phone order,14,9.14,0.07,6.16,45.0,0,Completed
+O1329,2025-08-16,C021,P011,Maria,Wholesale,7,16.3,0.0,11.17,30.0,3,Completed
+O1073,2025-06-19,C065,P008,Nikos,Wholesale,3,9.08,0.0,4.89,45.0,0,Completed
+O1252,2025-08-25,C029,P010,Nikos,Wholesale,10,25.35,0.1,17.44,30.0,0,Completed
+O1245,2025-10-21,C028,P001,Giorgos,Phone order,10,14.99,,11.01,15.0,0,Completed
+O1352,2025-07-22,C032,P027,Giorgos,Wholesale,13,19.42,0.07,14.1,15.0,3,Completed
+O1149,2025-12-16,C005,P009,Giorgos,Wholesale,10,9.54,0.05,6.26,30.0,0,Completed
+O1237,2025-04-20,C034,P003,Maria,Wholesale,12,8.23,0.08,5.98,45.0,0,Completed
+O1014,2025-08-17,C050,P002,Maria,Wholesale,9,8.02,0.0,5.52,30.0,0,Completed
+O1030,2025-11-14,C029,P007,Maria,Direct,14,13.28,0.07,6.58,45.0,0,Completed
+O1224,2025-09-13,C071,P001,Giorgos,Phone order,13,14.99,0.05,10.4,45.0,0,Completed
+O1527,2025-09-03,C087,P025,Nikos,Wholesale,11,15.87,0.08,10.92,30.0,0,Completed
+O1352,2025-07-16,C074,P004,Maria,Wholesale,10,9.14,0.05,6.15,45.0,0,Completed
+O1620,2025-11-26,C014,P024,Maria,Direct,8,16.87,0.0,10.81,60.0,0,Completed
+O1360,2025-10-06,C032,P018,Nikos,Phone order,8,15.39,0.0,10.38,30.0,0,Completed
+O1564,2025-07-03,C062,P023,Giorgos,Wholesale,8,16.26,0.0,10.74,60.0,0,Completed
+O1081,2025-09-06,C072,P035,Eleni,Phone order,7,21.37,0.0,12.35,30.0,1,Partial return
+O1528,2025-09-15,C013,P008,Eleni,Wholesale,7,9.08,0.0,4.81,30.0,0,Pending
+O1130,2025-04-03,C039,P003,Nikos,Wholesale,9,8.23,0.0,5.8,45.0,0,Completed
+O1147,2025-04-23,C047,P014,Nikos,Phone order,9,17.99,0.0,9.25,15.0,0,Completed
+O1430,2025-05-24,C089,P008,Nikos,Phone order,17,9.08,0.05,4.87,15.0,0,Completed
+O1110,2025-08-30,C057,P019,Eleni,Direct,10,14.76,0.02,7.48,45.0,0,Completed
+O1564,2025-04-30,C030,P026,Maria,Wholesale,14,16.04,0.08,9.8,45.0,1,Partial return
+O1017,2025-12-03,C025,P033,Maria,Wholesale,6,17.67,0.0,9.71,30.0,0,Completed
+O1248,2025-01-29,C056,P008,Maria,Wholesale,7,9.08,0.02,4.59,45.0,0,Completed
+O1091,2025-07-18,C081,P019,Eleni,Phone order,16,14.76,0.05,7.72,60.0,0,Completed
+O1639,2025-03-30,C041,P001,Maria,Wholesale,14,14.99,0.1,10.68,60.0,0,Completed
+O1462,2025-06-12,C009,P025,Eleni,Phone order,17,15.87,0.05,10.89,60.0,0,Completed
+O1570,2025-01-15,C022,P026,Eleni,Phone order,10,16.04,0.04,9.36,45.0,1,Partial return
+O1039,2025-10-16,C024,P025,Maria,Wholesale,9,15.87,0.0,11.5,30.0,0,Completed
+O1462,2025-04-07,C010,P035,Giorgos,Wholesale,11,21.37,0.03,12.48,30.0,0,Pending
+O1321,2025-03-31,C016,P031,Giorgos,Wholesale,16,15.37,0.07,8.72,30.0,0,Completed
+O1253,2025-01-29,C017,P004,Maria,Direct,2,9.14,0.0,6.38,60.0,0,Completed
+O1232,2025-01-11,C071,P003,Giorgos,Wholesale,8,8.23,0.0,5.98,45.0,0,Completed
+O1067,2025-11-11,C070,P031,Maria,Phone order,12,15.37,0.02,8.18,75.0,0,Completed
+O1557,2025-06-24,C015,P014,Maria,Phone order,14,17.99,0.12,8.98,45.0,0,Completed
+O1462,2025-06-15,C037,P004,Nikos,Wholesale,9,9.14,0.0,6.27,45.0,0,Completed
+O1037,2025-10-28,C075,P009,Maria,Direct,8,9.54,0.0,5.94,45.0,0,Completed
+O1043,2025-09-27,C022,P008,Eleni,Phone order,12,9.08,0.04,4.76,60.0,0,Completed
+O1289,2025-07-11,C060,P028,Giorgos,Wholesale,10,20.02,0.05,10.31,30.0,0,Completed
+O1359,2025-06-22,C032,P023,Eleni,Wholesale,7,16.26,0.02,10.44,15.0,0,Completed
+O1386,2025-03-22,C090,P030,Giorgos,Direct,3,14.56,0.02,8.27,30.0,0,Completed
+O1576,2025-09-07,C048,P005,Eleni,Wholesale,15,9.46,0.05,4.72,15.0,3,Completed
+O1328,2025-10-15,C069,P028,Eleni,Wholesale,8,20.02,0.0,10.42,30.0,1,Partial return
+O1157,2025-10-29,C079,P019,Maria,Wholesale,6,14.76,0.02,7.54,60.0,1,Partial return
+O1269,2025-12-19,C054,P033,Eleni,Wholesale,8,17.67,0.04,10.32,60.0,0,Completed
+O1489,2025-01-01,C071,P005,Giorgos,Phone order,7,9.46,0.0,4.72,45.0,0,Completed
+O1416,2025-10-18,C062,P005,Nikos,Wholesale,14,9.46,0.08,4.65,45.0,0,Completed
+O1164,2025-06-12,C042,P002,Maria,Direct,7,8.02,0.0,5.51,45.0,0,Completed
+O1050,2025-02-23,C004,P003,Giorgos,Wholesale,7,8.23,0.0,6.06,45.0,0,Completed
+O1439,2025-02-09,C069,P025,Maria,Wholesale,12,15.87,0.05,10.92,60.0,0,Completed
+O1182,2025-06-13,C082,P009,Maria,Direct,13,9.54,0.04,6.1,60.0,0,Completed
+O1076,2025-02-15,C087,P036,Eleni,Wholesale,12,19.47,0.05,11.0,15.0,0,Completed
+O1040,2025-05-16,C084,P025,Maria,Wholesale,16,15.87,0.04,11.55,60.0,0,Completed
+O1320,2025-02-04,C073,P036,Eleni,Wholesale,10,19.47,0.05,11.16,30.0,0,Completed
+O1087,2025-02-25,C015,P019,Nikos,Wholesale,7,14.76,0.02,8.01,45.0,0,Completed
+O1343,2025-08-13,C033,P005,Giorgos,Phone order,18,9.46,0.07,4.82,45.0,0,Completed
+O1472,2025-07-31,C082,P015,Giorgos,Phone order,6,21.66,0.01,11.17,75.0,0,Completed
+O1404,2025-06-29,C088,P013,Giorgos,Wholesale,8,24.95,0.0,13.93,45.0,0,Completed
+O1513,2025-09-03,C090,P022,Maria,Wholesale,7,15.11,0.0,9.96,30.0,0,Completed
+O1548,2025-02-07,C011,P017,Nikos,Wholesale,7,17.04,0.0,8.53,15.0,0,Completed
+O1633,2025-06-13,C021,P001,Eleni,Phone order,7,14.99,0.0,10.39,45.0,0,Completed
+O1158,2025-02-07,C003,P024,Eleni,Wholesale,3,16.87,0.0,10.46,45.0,0,Completed
+O1002,2025-07-12,C027,P023,Maria,Direct,5,16.26,0.0,10.97,15.0,0,Completed
+O1160,2025-10-08,C069,P009,Nikos,Wholesale,9,9.54,0.0,6.13,30.0,0,Completed
+O1611,2025-11-11,C014,P011,Giorgos,Direct,19,16.3,0.02,10.9,60.0,0,Completed
+O1580,2025-08-09,C004,P020,Maria,Direct,10,11.89,0.09,7.34,45.0,0,Completed
+O1214,2025-08-11,C067,P009,Maria,Wholesale,9,9.54,0.0,5.94,45.0,0,Completed
+O1300,2025-06-19,C008,P010,Maria,Phone order,10,25.35,0.05,17.84,30.0,0,Completed
+O1301,2025-07-29,C070,P035,Eleni,Direct,10,21.37,0.04,12.9,60.0,0,Completed
+O1398,2025-06-02,C068,P025,Maria,Wholesale,6,15.87,0.0,11.39,30.0,0,Completed
+O1244,2025-07-21,C020,P035,Giorgos,Wholesale,8,21.37,0.0,12.11,30.0,0,Completed
+O1244,2025-07-04,C075,P001,Nikos,Wholesale,9,14.99,0.0,10.99,75.0,0,Completed
+O1545,2025-05-31,C020,P029,Giorgos,Wholesale,11,17.56,0.03,12.74,45.0,0,Completed
+O1569,2025-01-14,C054,P016,Maria,Wholesale,8,19.23,0.0,9.87,30.0,0,Completed
+O1156,2025-05-30,C086,P025,Nikos,Wholesale,15,15.87,0.05,10.97,45.0,0,Completed
+O1519,2025-03-01,C090,P031,Eleni,Direct,12,15.37,0.05,8.71,15.0,0,Completed
+O1413,2025-08-30,C066,P014,Giorgos,Phone order,12,17.99,0.05,8.64,30.0,0,Completed
+O1340,2025-05-16,C077,P029,Nikos,Direct,6,17.56,0.0,12.68,45.0,0,Completed
+O1443,2025-07-18,C027,P026,Maria,Wholesale,13,16.04,0.05,9.79,30.0,1,Partial return
+O1371,2025-07-15,C011,P013,Eleni,Wholesale,9,24.95,0.0,13.82,30.0,0,Completed
+O1361,2025-01-23,C058,P030,Eleni,Wholesale,7,14.56,0.0,8.03,30.0,0,Completed
+O1323,2025-05-15,C030,P003,Maria,Phone order,12,8.23,0.07,6.01,60.0,0,Completed
+O1309,2025-10-16,C066,P003,Nikos,Wholesale,8,8.23,0.0,5.89,30.0,0,Completed
+O1143,2025-12-23,C040,P010,Nikos,Wholesale,11,25.35,0.05,17.67,60.0,0,Completed
+O1420,2025-06-26,C044,P007,Giorgos,Phone order,15,13.28,0.04,6.84,45.0,0,Completed
+O1110,2025-10-29,C032,P036,Maria,Wholesale,12,19.47,0.09,11.7,15.0,3,Completed
+O1237,2025-07-18,C078,P027,Giorgos,Phone order,4,19.42,0.0,13.95,60.0,0,Completed
+O1587,2025-12-18,C031,P029,Giorgos,Wholesale,21,17.56,0.03,12.95,45.0,0,Completed
+O1590,2025-05-01,C023,P033,Giorgos,Wholesale,9,17.67,0.02,10.07,30.0,0,Completed
+O1612,2025-07-22,C081,P016,Nikos,Wholesale,8,19.23,0.0,9.49,30.0,0,Completed
+O1129,2025-09-22,C087,P022,Maria,Wholesale,11,15.11,0.07,9.52,15.0,0,Completed
+O1068,2025-08-18,C083,P003,Maria,Phone order,10,8.23,0.1,5.93,60.0,0,Completed
+O1404,2025-03-27,C088,P003,Maria,Phone order,14,8.23,0.08,5.76,60.0,0,Completed
+O1446,2025-03-06,C012,P007,Nikos,Wholesale,14,13.28,0.08,6.74,60.0,0,Completed
+O1256,2025-12-16,C070,P002,Giorgos,Wholesale,8,8.02,0.03,5.58,75.0,0,Completed
+O1033,2025-11-18,C022,P022,Maria,Phone order,17,15.11,0.09,9.42,60.0,0,Completed
+O1152,2025-05-13,C052,P022,Eleni,Phone order,7,15.11,0.04,9.44,60.0,3,Completed
+O1189,2025-02-04,C030,P030,Nikos,Wholesale,9,14.56,0.02,8.41,45.0,0,Completed
+O1466,2025-07-23,C084,P018,Eleni,Phone order,7,15.39,0.0,10.75,60.0,0,Completed
+O1263,2025-09-24,C044,P036,Giorgos,Phone order,7,19.47,0.01,11.37,75.0,1,Completed
+O1300,2025-01-07,C027,P027,Giorgos,Wholesale,8,19.42,0.0,13.72,30.0,0,Completed
+O1578,2025-03-18,C088,P004,Maria,Wholesale,12,9.14,0.05,6.16,30.0,0,Completed
+O1087,2025-10-26,C008,P023,Nikos,Phone order,9,16.26,0.0,10.82,30.0,1,Partial return
+O1263,2025-10-16,C009,P013,Nikos,Direct,9,24.95,0.02,13.15,45.0,0,Completed
+O1416,2025-10-02,C028,P010,Eleni,Phone order,11,25.35,0.05,16.71,15.0,0,Pending
+O1125,2025-05-16,C046,P019,Giorgos,Direct,14,14.76,0.07,7.55,15.0,0,Completed
+O1334,2025-10-20,C087,P001,Giorgos,Wholesale,13,14.99,0.05,10.75,30.0,0,Completed
+O1355,2025-05-22,C033,P025,Giorgos,Wholesale,13,15.87,0.05,10.77,45.0,0,Completed
+O1234,2025-11-08,C028,P009,Giorgos,Wholesale,12,9.54,0.05,6.07,30.0,0,Pending
+O1396,2025-06-19,C016,P036,Maria,Wholesale,13,19.47,0.03,11.71,45.0,0,Pending
+O1467,2025-09-01,C022,P023,Eleni,Phone order,12,16.26,0.06,10.78,60.0,0,Completed
+O1250,2025-01-11,C010,P008,Eleni,Phone order,6,9.08,0.0,4.57,45.0,0,Completed
+O1644,2025-06-05,C074,P023,Eleni,Wholesale,13,16.26,0.08,10.92,60.0,0,Completed
+O1102,2025-09-09,C041,P019,Nikos,Phone order,13,14.76,0.05,7.73,60.0,0,Completed
+O1416,2025-04-27,C062,P016,Maria,Wholesale,10,19.23,0.05,10.1,45.0,0,Completed
+O1497,2025-08-15,C017,P011,Eleni,Wholesale,9,16.3,0.0,11.75,45.0,0,Completed
+O1477,2025-08-02,C055,P028,Nikos,Wholesale,7,20.02,0.0,9.79,60.0,0,Completed
+O1228,2025-04-19,C068,P023,Giorgos,Direct,10,16.26,0.05,10.8,30.0,0,Completed
+O1244,2025-09-22,C073,P032,Eleni,Phone order,9,13.3,0.0,7.67,45.0,0,Completed
+O1391,2025-09-21,C066,P020,Maria,Wholesale,10,11.89,0.03,7.57,45.0,0,Completed
+O1290,2025-12-30,C056,P009,Giorgos,Wholesale,18,9.54,0.03,6.16,45.0,0,Completed
+O1360,2025-09-26,C013,P015,Nikos,Wholesale,10,21.66,0.07,10.56,45.0,0,Completed
+O1463,2025-04-13,C066,P032,Nikos,Wholesale,8,13.3,0.0,7.61,45.0,3,Completed
+O1256,2025-08-22,C022,P019,Nikos,Phone order,9,14.76,0.03,7.73,60.0,0,Completed
+O1585,2025-12-27,C081,P028,Maria,Wholesale,15,20.02,0.03,10.12,45.0,0,Completed
+O1612,2025-08-26,C041,P017,Giorgos,Direct,8,17.04,0.02,8.6,45.0,0,Completed
+O1012,2025-03-05,C047,P004,Nikos,Wholesale,12,9.14,,6.0,30.0,1,Partial return
+O1072,2025-09-08,C015,P007,Giorgos,Wholesale,11,13.28,0.05,6.58,30.0,0,Completed
+O1179,2025-08-31,C055,P019,Eleni,Wholesale,10,14.76,0.1,7.86,45.0,0,Pending
+O1611,2025-05-13,C018,P005,Nikos,Wholesale,13,9.46,0.05,4.68,45.0,2,Completed
+O1191,2025-07-17,C088,P025,Nikos,Wholesale,8,15.87,0.0,11.34,45.0,0,Completed
+O1317,2025-10-20,C005,P022,Maria,Phone order,9,15.11,0.0,9.7,30.0,0,Completed
+O1318,2025-11-28,C010,P006,Maria,Direct,13,12.05,0.08,8.94,45.0,1,Partial return
+O1269,2025-05-18,C040,P023,Giorgos,Wholesale,17,16.26,0.05,10.56,45.0,0,Completed
+O1373,2025-12-16,C009,P007,Nikos,Wholesale,19,13.28,0.07,7.01,45.0,0,Completed
+O1361,2025-03-09,C042,P036,Maria,Direct,10,19.47,0.04,11.72,60.0,0,Completed
+O1514,2025-01-05,C084,P015,Maria,Wholesale,8,21.66,0.0,11.13,60.0,0,Pending
+O1427,2025-06-06,C046,P014,Eleni,Wholesale,7,17.99,0.04,8.88,30.0,0,Completed
+O1395,2025-07-12,C027,P018,Eleni,Wholesale,11,15.39,0.03,10.27,30.0,0,Completed
+O1147,2025-04-22,C019,P023,Giorgos,Wholesale,5,16.26,0.01,10.48,75.0,1,Partial return
+O1368,2025-09-24,C083,P001,Giorgos,Wholesale,14,14.99,0.07,11.02,45.0,0,Completed
+O1535,2025-01-04,C075,P022,Eleni,Wholesale,12,15.11,0.02,10.12,45.0,0,Completed
+O1615,2025-11-01,C045,P017,Eleni,Wholesale,12,17.04,0.03,8.47,45.0,0,Completed
+O1559,2025-02-25,C008,P019,Giorgos,Wholesale,4,14.76,0.0,7.69,30.0,0,Completed
+O1261,2025-05-22,C089,P015,Eleni,Phone order,12,21.66,0.07,10.64,30.0,0,Completed
+O1587,2025-05-14,C029,P022,Eleni,Wholesale,6,15.11,0.02,9.5,45.0,0,Completed
+O1466,2025-09-22,C054,P028,Maria,Phone order,13,20.02,0.05,10.47,45.0,0,Completed
+O1504,2025-11-04,C029,P027,Giorgos,Direct,21,19.42,0.05,13.45,30.0,1,Partial return
+O1606,2025-12-15,C085,P024,Maria,Direct,18,16.87,0.11,10.42,45.0,0,Completed
+O1323,2025-12-02,C051,P027,Giorgos,Phone order,4,19.42,0.0,13.46,30.0,0,Completed
+O1091,2025-05-13,C025,P028,Giorgos,Wholesale,12,20.02,0.05,9.95,30.0,0,Completed
+O1272,2025-01-19,C001,P025,Maria,Wholesale,9,15.87,0.0,11.49,45.0,0,Completed
+O1420,2025-04-24,C073,P029,Giorgos,Phone order,9,17.56,0.0,12.31,30.0,0,Completed
+O1086,2025-12-10,C048,P003,Eleni,Wholesale,18,8.23,0.1,5.88,15.0,0,Completed
+O1599,2025-03-29,C084,P014,Maria,Wholesale,13,17.99,0.04,8.83,75.0,0,Completed
+O1377,2025-08-30,C026,P005,Maria,Direct,14,9.46,0.05,4.83,45.0,0,Completed
+O1638,2025-10-14,C029,P029,Maria,Phone order,10,17.56,0.05,12.64,30.0,1,Partial return
+O1230,2025-06-21,C022,P034,Nikos,Wholesale,11,21.54,0.06,10.76,45.0,0,Completed
+O1235,2025-04-25,C056,P026,Eleni,Wholesale,9,16.04,0.0,9.85,45.0,0,Completed
+O1233,2025-06-19,C002,P007,Eleni,Wholesale,7,13.28,0.02,6.56,45.0,0,Pending
+O1430,2025-05-31,C045,P030,Giorgos,Phone order,17,14.56,0.03,8.34,60.0,0,Completed
+O1267,2025-08-29,C038,P005,Nikos,Phone order,11,9.46,0.03,4.66,30.0,0,Completed
+O1524,2025-10-26,C067,P025,Nikos,Wholesale,9,15.87,0.0,10.85,60.0,0,Completed
+O1281,2025-04-10,C075,P036,Nikos,Phone order,7,19.47,0.0,11.24,60.0,0,Completed
+O1645,2025-07-15,C054,P006,Eleni,Wholesale,7,12.05,0.02,8.45,30.0,0,Completed
+O1385,2025-03-19,C044,P024,Maria,Phone order,8,16.87,0.03,10.39,75.0,0,Completed
+O1232,2025-06-25,C081,P009,Giorgos,Phone order,12,9.54,0.05,6.27,30.0,0,Completed
+O1389,2025-08-23,C083,P035,Maria,Wholesale,8,21.37,0.02,12.41,45.0,0,Completed
+O1042,2025-04-03,C072,P034,Nikos,Wholesale,10,21.54,0.03,11.4,30.0,0,Completed
+O1535,2025-11-20,C052,P022,Maria,Wholesale,9,15.11,0.02,9.55,45.0,0,Completed
+O1501,2025-01-30,C030,P029,Nikos,Wholesale,5,17.56,0.02,12.16,45.0,0,Completed
+O1445,2025-04-18,C027,P019,Maria,Wholesale,5,14.76,0.0,7.63,30.0,0,Completed
+O1101,2025-03-23,C046,P030,Giorgos,Direct,9,14.56,0.0,8.16,30.0,0,Completed
+O1467,2025-02-15,C058,P022,Maria,Direct,10,15.11,0.08,10.07,60.0,0,Completed
+O1507,2025-11-21,C048,P030,Giorgos,Wholesale,14,14.56,0.07,8.42,30.0,0,Completed
+O1503,2025-09-02,C035,P004,Giorgos,Wholesale,11,9.14,0.03,6.0,45.0,0,Completed
+O1301,2025-10-01,C042,P001,Maria,Direct,11,14.99,0.02,10.49,45.0,0,Completed
+O1234,2025-01-08,C080,P003,Eleni,Direct,10,8.23,0.03,5.85,45.0,2,Completed
+O1352,2025-09-29,C051,P024,Maria,Wholesale,6,16.87,0.0,10.63,30.0,0,Completed
+O1003,2025-01-03,C031,P001,Maria,Wholesale,6,14.99,0.0,10.83,45.0,1,Partial return
+O1488,2025-06-26,C018,P020,Eleni,Wholesale,12,11.89,0.09,7.77,45.0,0,Completed
+O1104,2025-07-16,C049,P015,Eleni,Wholesale,11,21.66,0.03,10.67,30.0,0,Completed
+O1408,2025-01-24,C060,P003,Eleni,Phone order,11,8.23,0.03,5.89,30.0,0,Pending
+O1584,2025-08-22,C066,P002,Eleni,Wholesale,11,8.02,0.05,5.33,30.0,0,Completed
+O1368,2025-12-18,C011,P027,Maria,Wholesale,6,19.42,0.0,13.52,30.0,0,Completed
+O1524,2025-09-08,C010,P002,Eleni,Direct,7,8.02,0.0,5.66,45.0,0,Completed
+O1316,2025-03-26,C062,P035,Giorgos,Wholesale,11,21.37,0.03,12.1,45.0,0,Completed
+O1178,2025-04-25,C063,P032,Maria,Wholesale,4,13.3,0.0,7.42,60.0,0,Completed
+O1097,2025-01-12,C043,P002,Maria,Wholesale,7,8.02,0.0,5.62,30.0,0,Completed
+O1253,2025-12-31,C033,P010,Nikos,Wholesale,15,25.35,0.07,17.17,30.0,0,Pending
+O1270,2025-11-24,C021,P011,Eleni,Direct,10,16.3,0.03,11.52,30.0,0,Completed
+O1370,2025-11-16,C061,P003,Nikos,Wholesale,8,8.23,0.02,6.02,15.0,0,Completed
+O1216,2025-01-25,C002,P004,Nikos,Direct,9,9.14,0.0,6.03,60.0,0,Completed
+O1237,2025-01-11,C003,P034,Nikos,Direct,13,21.54,0.03,10.84,30.0,0,Completed
+O1399,2025-08-02,C030,P026,Giorgos,Wholesale,9,16.04,0.0,9.5,45.0,1,Partial return
+O1069,2025-10-08,C089,P021,Eleni,Wholesale,9,19.64,0.0,12.48,30.0,0,Completed
+O1395,2025-03-20,C059,P021,Maria,Direct,12,19.64,0.08,12.48,60.0,0,Completed
+O1253,2025-11-19,C039,P035,Nikos,Wholesale,10,21.37,0.04,12.73,45.0,0,Completed
+O1151,2025-12-05,C001,P022,Nikos,Direct,14,15.11,0.08,9.76,30.0,0,Completed
+O1452,2025-05-19,C085,P001,Maria,Wholesale,11,14.99,0.08,10.59,60.0,0,Completed
+O1065,2025-02-23,C067,P019,Nikos,Wholesale,8,14.76,0.0,8.04,45.0,0,Completed
+O1509,2025-02-24,C010,P022,Giorgos,Wholesale,9,15.11,0.0,9.47,45.0,0,Completed
+O1311,2025-04-13,C079,P002,Eleni,Phone order,13,8.02,0.08,5.62,45.0,0,Completed
+O1526,2025-04-14,C001,P012,Eleni,Direct,8,19.45,0.0,14.34,15.0,0,Completed
+O1480,2025-06-01,C080,P020,Maria,Wholesale,9,11.89,0.0,7.86,30.0,0,Completed
+O1415,2025-09-12,C014,P027,Maria,Direct,16,19.42,0.04,13.76,60.0,0,Completed
+O1388,2025-09-04,C053,P001,Eleni,Wholesale,11,14.99,0.06,10.25,45.0,0,Completed
+O1449,2025-01-07,C022,P029,Nikos,Phone order,9,17.56,0.0,12.36,60.0,0,Completed
+O1043,2025-10-21,C045,P003,Giorgos,Wholesale,8,8.23,0.0,5.88,45.0,0,Completed
+O1244,2025-02-16,C005,P009,Nikos,Direct,6,9.54,0.0,6.14,30.0,0,Completed
+O1197,2025-02-21,C070,P019,Eleni,Direct,11,14.76,0.08,7.67,45.0,0,Completed
+O1026,2025-08-22,C036,P032,Eleni,Wholesale,8,13.3,0.04,7.97,15.0,0,Completed
+O1101,2025-01-26,C006,P010,Nikos,Phone order,4,25.35,0.04,17.52,30.0,2,Completed
+O1485,2025-01-21,C014,P029,Eleni,Wholesale,8,17.56,0.0,12.02,45.0,0,Completed
+O1600,2025-12-13,C069,P025,Eleni,Wholesale,8,15.87,0.0,11.56,45.0,0,Pending
+O1102,2025-03-01,C047,P007,Nikos,Phone order,10,13.28,0.03,6.94,15.0,0,Completed
+O1331,2025-01-24,C089,P036,Nikos,Phone order,11,19.47,0.07,11.75,45.0,0,Completed
+O1122,2025-12-06,C089,P025,Maria,Wholesale,9,15.87,0.0,10.95,15.0,1,Completed
+O1333,2025-08-13,C039,P033,Eleni,Phone order,11,17.67,0.02,9.74,60.0,0,Completed
+O1642,2025-02-17,C052,P002,Eleni,Phone order,10,8.02,0.07,5.55,30.0,0,Completed
+O1182,2025-04-04,C022,P019,Nikos,Wholesale,14,14.76,0.08,8.02,45.0,0,Completed
+O1609,2025-08-22,C054,P024,Eleni,Phone order,16,16.87,0.05,10.47,45.0,0,Completed
+O1489,2025-12-20,C018,P005,Giorgos,Direct,13,9.46,0.05,4.61,45.0,0,Completed
+O1051,2025-11-29,C023,P033,Maria,Wholesale,13,17.67,0.07,10.02,45.0,0,Completed
+O1335,2025-12-23,C013,P021,Nikos,Phone order,9,19.64,0.02,12.8,15.0,0,Completed
+O1183,2025-03-23,C047,P008,Nikos,Wholesale,10,9.08,0.08,4.57,15.0,0,Completed
+O1346,2025-10-30,C024,P002,Giorgos,Phone order,15,8.02,0.05,5.53,15.0,0,Completed
+O1426,2025-12-14,C009,P012,Giorgos,Wholesale,13,19.45,0.05,14.1,60.0,0,Completed
+O1077,2025-07-14,C011,P025,Eleni,Direct,6,15.87,0.0,11.45,45.0,2,Completed
+O1218,2025-12-17,C067,P014,Maria,Wholesale,7,17.99,0.0,8.73,45.0,0,Completed
+O1502,2025-09-07,C068,P025,Nikos,Phone order,6,15.87,0.0,10.78,15.0,0,Completed
+O1032,2025-08-14,C083,P018,Nikos,Wholesale,17,15.39,0.1,10.59,30.0,0,Completed
+O1018,2025-12-02,C005,P020,Eleni,Wholesale,8,11.89,0.0,7.67,45.0,0,Pending
+O1634,2025-12-14,C050,P006,Maria,Phone order,9,12.05,0.0,8.38,45.0,0,Completed
+O1117,2025-12-09,C056,P019,Eleni,Wholesale,11,14.76,0.07,7.99,30.0,0,Completed
+O1330,2025-12-19,C083,P017,Nikos,Wholesale,14,17.04,,8.37,30.0,0,Completed
+O1557,2025-05-08,C042,P003,Giorgos,Wholesale,10,8.23,0.06,5.86,60.0,0,Completed
+O1172,2025-12-13,C082,P004,Giorgos,Wholesale,10,9.14,0.09,6.0,45.0,0,Completed
+O1287,2025-10-13,C018,P018,Nikos,Wholesale,13,15.39,0.1,10.86,45.0,0,Completed
+O1453,2025-03-22,C046,P018,Giorgos,Phone order,10,15.39,0.03,10.41,30.0,0,Completed
+O1373,2025-03-26,C022,P005,Nikos,Direct,15,9.46,0.04,4.88,60.0,0,Completed
+O1073,2025-06-14,C087,P026,Maria,Wholesale,8,16.04,0.0,9.42,15.0,0,Completed
+O1419,2025-05-23,C033,P027,Nikos,Wholesale,9,19.42,0.0,14.09,60.0,0,Completed
+O1523,2025-10-09,C055,P020,Giorgos,Wholesale,19,11.89,0.12,7.59,60.0,0,Completed
+O1537,2025-05-01,C032,P021,Nikos,Wholesale,9,19.64,0.0,12.41,30.0,0,Completed
+O1222,2025-10-21,C016,P001,Giorgos,Wholesale,8,14.99,0.0,10.58,45.0,0,Completed
+O1239,2025-09-13,C052,P006,Giorgos,Wholesale,15,12.05,0.09,8.69,45.0,0,Completed
+O1549,2025-09-12,C079,P028,Nikos,Wholesale,6,20.02,0.02,9.91,45.0,0,Completed
+O1035,2025-07-31,C001,P023,Nikos,Wholesale,12,16.26,0.05,11.1,15.0,0,Completed
+O1267,2025-01-01,C040,P017,Nikos,Direct,9,17.04,0.0,8.04,30.0,1,Partial return
+O1316,2025-11-13,C017,P030,Eleni,Phone order,12,14.56,0.03,8.03,60.0,0,Completed
+O1456,2025-10-15,C076,P008,Maria,Direct,9,9.08,0.0,4.59,30.0,0,Completed
+O1131,2025-08-22,C068,P001,Eleni,Wholesale,5,14.99,0.0,10.6,45.0,0,Completed
+O1402,2025-01-28,C035,P030,Maria,Phone order,5,14.56,0.0,8.17,30.0,0,Completed
+O1421,2025-06-19,C045,P023,Giorgos,Direct,12,16.26,0.03,10.73,30.0,0,Pending
+O1130,2025-07-06,C040,P003,Giorgos,Wholesale,7,8.23,0.0,5.98,30.0,0,Completed
+O1065,2025-12-04,C032,P022,Maria,Wholesale,16,15.11,0.07,9.39,30.0,0,Completed
+O1281,2025-07-01,C032,P033,Eleni,Wholesale,15,17.67,0.07,10.23,30.0,0,Completed
+O1089,2025-07-11,C010,P001,Nikos,Wholesale,4,14.99,0.0,10.71,45.0,0,Completed
+O1080,2025-03-26,C090,P034,Giorgos,Wholesale,6,21.54,0.02,11.04,15.0,0,Completed
+O1018,2025-07-29,C090,P027,Nikos,Wholesale,17,19.42,0.05,14.0,15.0,0,Completed
+O1290,2025-04-11,C017,P001,Maria,Wholesale,10,14.99,0.05,10.84,60.0,1,Partial return
+O1110,2025-07-21,C087,P004,Maria,Wholesale,14,9.14,0.1,5.95,30.0,0,Completed
+O1581,2025-04-08,C041,P007,Eleni,Wholesale,11,13.28,0.07,6.61,45.0,0,Completed
+O1032,2025-08-01,C065,P009,Nikos,Phone order,7,9.54,0.0,6.07,45.0,0,Completed
+O1188,2025-12-11,C035,P011,Nikos,Direct,10,16.3,0.05,11.41,60.0,0,Completed
+O1205,2025-08-19,C038,P024,Giorgos,Direct,10,16.87,0.08,10.85,45.0,0,Completed
+O1119,2025-09-16,C011,P004,Maria,Phone order,9,9.14,0.0,6.26,30.0,0,Completed
+O1465,2025-01-03,C086,P032,Nikos,Wholesale,8,13.3,0.0,7.91,30.0,0,Completed
+O1575,2025-08-10,C045,P035,Giorgos,Phone order,8,21.37,0.0,12.95,45.0,0,Completed
+O1294,2025-04-01,C073,P009,Maria,Direct,13,9.54,0.03,6.17,30.0,0,Completed
+O1524,2025-03-07,C073,P012,Nikos,Wholesale,9,19.45,0.0,14.32,30.0,0,Completed
+O1386,2025-11-04,C084,P016,Eleni,Wholesale,14,19.23,0.04,10.09,60.0,0,Completed
+O1643,2025-07-16,C008,P031,Giorgos,Phone order,6,15.37,0.0,8.18,15.0,1,Partial return
+O1048,2025-12-21,C038,P008,Maria,Wholesale,16,9.08,0.05,4.73,60.0,0,Completed
+O1555,2025-06-25,C008,P013,Eleni,Wholesale,12,24.95,0.08,14.1,30.0,0,Completed
+O1539,2025-03-10,C015,P006,Maria,Wholesale,9,12.05,0.04,8.83,30.0,0,Completed
+O1155,2025-12-25,C075,P035,Eleni,Phone order,10,21.37,0.04,12.71,60.0,0,Completed
+O1389,2025-10-08,C024,P009,Eleni,Direct,6,9.54,0.0,5.96,15.0,0,Completed
+O1463,2025-10-11,C048,P009,Maria,Wholesale,7,9.54,0.0,6.19,45.0,0,Completed
+O1528,2025-11-16,C085,P002,Eleni,Direct,15,8.02,0.02,5.33,60.0,0,Completed
+O1158,2025-12-11,C079,P022,Maria,Phone order,15,15.11,0.03,9.61,45.0,0,Completed
+O1420,2025-11-29,C086,P002,Maria,Wholesale,15,8.02,0.05,5.47,30.0,0,Completed
+O1358,2025-12-22,C037,P007,Eleni,Direct,12,13.28,0.03,6.62,45.0,0,Completed
+O1513,2025-06-30,C016,P029,Giorgos,Wholesale,11,17.56,0.07,12.49,45.0,3,Completed
+O1063,2025-12-08,C089,P036,Giorgos,Direct,7,19.47,0.02,10.99,30.0,0,Completed
+O1600,2025-10-01,C064,P012,Eleni,Phone order,16,19.45,0.03,14.14,15.0,0,Completed
+O1530,2025-08-05,C016,P035,Nikos,Wholesale,11,21.37,0.07,12.97,30.0,0,Completed
+O1173,2025-01-13,C074,P009,Giorgos,Wholesale,6,9.54,0.02,6.23,30.0,0,Completed
+O1525,2025-12-10,C089,P034,Nikos,Wholesale,18,21.54,0.05,10.98,30.0,0,Completed
+O1619,2025-03-24,C040,P009,Eleni,Direct,9,9.54,0.0,6.29,45.0,0,Completed
+O1438,2025-03-16,C042,P022,Nikos,Direct,11,15.11,0.07,10.11,45.0,0,Completed
+O1598,2025-06-01,C059,P007,Maria,Direct,3,13.28,0.0,6.63,45.0,0,Completed
+O1138,2025-01-17,C089,P022,Eleni,Phone order,4,15.11,,10.12,15.0,1,Completed
+O1172,2025-02-22,C087,P004,Maria,Direct,9,9.14,0.0,6.05,30.0,0,Completed
+O1382,2025-10-15,C026,P002,Giorgos,Wholesale,12,8.02,0.05,5.46,45.0,0,Completed
+O1558,2025-12-23,C035,P025,Eleni,Direct,6,15.87,0.0,11.46,45.0,1,Partial return
+O1168,2025-01-25,C085,P024,Giorgos,Wholesale,11,16.87,0.04,10.42,60.0,0,Completed
+O1226,2025-12-17,C090,P023,Eleni,Phone order,17,16.26,0.1,10.62,15.0,0,Completed
+O1107,2025-01-28,C087,P010,Nikos,Direct,12,25.35,0.07,17.77,45.0,0,Completed
+O1463,2025-04-14,C053,P006,Giorgos,Phone order,9,12.05,0.01,8.75,75.0,0,Completed
+O1388,2025-11-21,C063,P033,Eleni,Direct,9,17.67,0.0,10.32,60.0,0,Completed
+O1320,2025-10-07,C012,P036,Maria,Direct,12,19.47,0.03,11.43,60.0,0,Completed
+O1088,2025-04-10,C062,P013,Eleni,Wholesale,14,24.95,0.03,13.67,45.0,0,Completed
+O1065,2025-12-16,C082,P029,Nikos,Wholesale,18,17.56,0.07,12.8,75.0,0,Completed
+O1548,2025-03-30,C023,P020,Nikos,Wholesale,12,11.89,0.03,7.7,45.0,0,Completed
+O1099,2025-08-08,C058,P018,Eleni,Wholesale,7,15.39,0.0,10.77,30.0,2,Completed
+O1318,2025-03-08,C087,P031,Maria,Wholesale,10,15.37,0.05,8.58,15.0,0,Completed
+O1181,2025-05-11,C031,P035,Nikos,Wholesale,13,21.37,0.03,12.68,45.0,1,Partial return
+O1167,2025-12-30,C011,P020,Maria,Wholesale,11,11.89,0.03,7.51,30.0,0,Completed
+O1443,2025-06-15,C053,P019,Nikos,Direct,10,14.76,0.02,7.83,60.0,0,Completed
+O1029,2025-11-17,C027,P001,Eleni,Wholesale,15,14.99,0.05,10.8,15.0,0,Completed
+O1125,2025-10-21,C003,P020,Eleni,Wholesale,2,11.89,0.0,7.68,45.0,0,Completed
+O1319,2025-12-29,C081,P007,Eleni,Wholesale,11,13.28,0.05,7.06,60.0,0,Completed
+O1613,2025-04-05,C087,P011,Nikos,Direct,16,16.3,0.07,11.27,30.0,0,Completed
+O1644,2025-03-23,C024,P004,Giorgos,Wholesale,14,9.14,0.05,6.15,15.0,0,Completed
+O1573,2025-07-26,C085,P005,Nikos,Wholesale,7,9.46,0.01,4.6,60.0,0,Completed
+O1645,2025-04-20,C072,P009,Eleni,Wholesale,9,9.54,0.0,5.88,30.0,0,Completed
+O1373,2025-05-31,C019,P018,Maria,Phone order,9,15.39,0.01,10.68,45.0,0,Completed
+O1277,2025-11-13,C046,P020,Giorgos,Phone order,7,11.89,0.0,7.61,30.0,0,Completed
+O1182,2025-11-29,C060,P021,Nikos,Wholesale,13,19.64,0.05,12.56,30.0,1,Partial return
+O1451,2025-06-27,C015,P031,Giorgos,Wholesale,12,15.37,0.08,8.73,45.0,0,Completed
+O1359,2025-11-25,C022,P028,Maria,Phone order,10,20.02,0.08,10.4,60.0,0,Completed
+O1493,2025-12-16,C085,P015,Eleni,Wholesale,20,21.66,0.04,10.66,75.0,0,Completed
+O1181,2025-02-28,C038,P014,Giorgos,Wholesale,11,17.99,0.08,9.19,30.0,0,Completed
+O1385,2025-05-25,C086,P032,Nikos,Phone order,9,13.3,0.0,7.8,30.0,0,Completed
+O1244,2025-07-11,C008,P021,Giorgos,Wholesale,11,19.64,0.03,12.72,45.0,0,Completed
+O1572,2025-06-01,C060,P001,Maria,Wholesale,8,14.99,0.0,10.81,15.0,0,Completed
+O1642,2025-02-12,C067,P019,Nikos,Wholesale,9,14.76,0.0,7.59,60.0,0,Completed
+O1489,2025-10-03,C061,P021,Nikos,Direct,10,19.64,0.05,12.55,30.0,0,Completed
+O1065,2025-04-18,C082,P002,Maria,Phone order,12,8.02,0.04,5.28,75.0,0,Completed
+O1646,2025-08-06,C036,P027,Nikos,Wholesale,14,19.42,0.08,13.89,30.0,0,Completed
+O1203,2025-12-26,C039,P025,Giorgos,Direct,13,15.87,0.11,11.51,45.0,0,Completed
+O1151,2025-02-06,C032,P004,Maria,Wholesale,11,9.14,0.05,6.35,30.0,0,Completed
+O1463,2025-06-19,C058,P025,Nikos,Wholesale,11,15.87,0.08,11.6,30.0,0,Completed
+O1309,2025-01-28,C029,P028,Maria,Direct,9,20.02,0.04,10.17,30.0,0,Completed
+O1092,2025-10-13,C005,P005,Nikos,Wholesale,12,9.46,0.08,4.73,60.0,0,Completed
+O1233,2025-04-27,C015,P008,Eleni,Wholesale,11,9.08,0.05,4.7,30.0,0,Completed
+O1011,2025-08-19,C001,P026,Giorgos,Wholesale,6,16.04,0.0,9.5,30.0,1,Partial return
+O1026,2025-01-09,C013,P003,Giorgos,Direct,12,8.23,0.07,6.14,45.0,0,Completed
+O1184,2025-10-01,C083,P010,Nikos,Direct,8,25.35,0.0,17.21,45.0,0,Completed
+O1216,2025-11-13,C050,P026,Nikos,Direct,9,16.04,0.0,9.44,60.0,0,Completed
+O1273,2025-10-27,C088,P034,Nikos,Direct,10,21.54,0.03,11.01,45.0,2,Completed
+O1290,2025-02-07,C029,P035,Eleni,Phone order,10,21.37,0.05,12.55,30.0,0,Completed
+O1164,2025-02-24,C044,P020,Eleni,Direct,11,11.89,0.06,7.53,75.0,0,Completed
+O1594,2025-06-04,C005,P021,Nikos,Wholesale,10,19.64,0.05,12.09,30.0,2,Completed
+O1313,2025-08-13,C050,P030,Giorgos,Wholesale,8,14.56,0.0,8.13,30.0,0,Completed
+O1170,2025-12-05,C070,P021,Nikos,Wholesale,7,19.64,0.01,13.01,75.0,0,Completed
+O1103,2025-10-01,C025,P014,Maria,Wholesale,10,17.99,0.05,8.84,30.0,0,Completed
+O1178,2025-07-20,C075,P011,Eleni,Phone order,11,16.3,0.02,11.75,60.0,0,Completed
+O1318,2025-03-15,C013,P010,Eleni,Direct,16,25.35,0.05,17.79,15.0,0,Completed
+O1190,2025-11-28,C073,P008,Eleni,Phone order,4,9.08,0.0,4.66,15.0,0,Completed
+O1507,2025-01-06,C041,P017,Maria,Wholesale,16,17.04,0.07,8.65,60.0,0,Completed
+O1433,2025-01-03,C028,P029,Giorgos,Wholesale,11,17.56,0.12,12.38,30.0,0,Pending
+O1107,2025-02-13,C082,P017,Eleni,Wholesale,9,17.04,,8.61,45.0,0,Completed
+O1556,2025-06-26,C090,P001,Maria,Wholesale,17,14.99,0.05,10.29,15.0,0,Completed
+O1124,2025-11-27,C083,P011,Maria,Wholesale,14,16.3,0.09,11.61,45.0,0,Completed
+O1337,2025-04-24,C057,P019,Eleni,Wholesale,13,14.76,0.02,7.65,60.0,0,Completed
+O1548,2025-04-03,C048,P009,Nikos,Phone order,11,9.54,0.05,6.05,30.0,0,Completed
+O1118,2025-10-09,C033,P002,Giorgos,Direct,14,8.02,0.12,5.64,45.0,0,Completed
+O1229,2025-02-07,C060,P027,Eleni,Direct,7,19.42,0.0,13.44,30.0,0,Completed
+O1548,2025-05-09,C081,P016,Nikos,Wholesale,14,19.23,0.05,9.79,45.0,0,Completed
+O1234,2025-10-25,C020,P008,Giorgos,Phone order,6,9.08,0.0,4.7,60.0,0,Completed
+O1634,2025-07-02,C050,P004,Maria,Direct,9,9.14,0.0,6.24,45.0,0,Pending
+O1451,2025-05-01,C071,P007,Nikos,Wholesale,9,13.28,0.0,7.01,45.0,0,Completed
+O1046,2025-02-05,C049,P013,Maria,Wholesale,12,24.95,0.05,13.43,45.0,0,Completed
+O1008,2025-08-19,C013,P009,Eleni,Direct,5,9.54,0.0,6.29,30.0,0,Completed
+O1288,2025-06-06,C031,P006,Maria,Wholesale,12,12.05,0.05,8.83,60.0,0,Completed
+O1163,2025-07-06,C015,P009,Eleni,Phone order,14,9.54,0.05,6.18,45.0,0,Completed
+O1119,2025-03-28,C086,P011,Nikos,Wholesale,14,16.3,0.08,11.09,45.0,0,Completed
+O1048,2025-04-24,C038,P032,Giorgos,Wholesale,11,13.3,0.03,7.47,45.0,0,Completed
+O1087,2025-07-04,C074,P028,Maria,Direct,10,20.02,0.07,10.22,45.0,0,Completed
+O1103,2025-06-19,C025,P001,Giorgos,Wholesale,10,14.99,0.08,10.83,45.0,0,Completed
+O1191,2025-07-03,C085,P004,Eleni,Wholesale,7,9.14,0.01,5.99,45.0,1,Completed
+O1214,2025-02-25,C064,P026,Maria,Direct,6,16.04,0.0,9.4,15.0,0,Completed
+O1322,2025-02-11,C028,P021,Eleni,Phone order,7,19.64,0.02,12.98,30.0,0,Completed
+O1232,2025-03-13,C028,P019,Maria,Wholesale,10,14.76,0.05,8.08,15.0,0,Completed
+O1074,2025-11-17,C084,P029,Nikos,Direct,10,17.56,0.07,11.99,45.0,0,Completed
+O1352,2025-01-10,C028,P006,Nikos,Phone order,10,12.05,0.07,8.63,15.0,0,Completed
+O1097,2025-10-24,C039,P025,Giorgos,Direct,7,15.87,0.01,11.09,60.0,0,Completed
+O1604,2025-04-19,C039,P006,Nikos,Wholesale,10,12.05,0.04,8.63,75.0,0,Pending
+O1547,2025-10-06,C026,P003,Giorgos,Direct,13,8.23,0.03,6.14,30.0,0,Completed
+O1328,2025-03-18,C013,P011,Eleni,Wholesale,10,16.3,0.03,11.74,30.0,0,Completed
+O1077,2025-10-29,C041,P015,Eleni,Wholesale,3,21.66,0.02,11.15,45.0,1,Partial return
+O1457,2025-09-14,C022,P022,Nikos,Wholesale,9,15.11,0.0,9.57,60.0,0,Completed
+O1374,2025-09-15,C050,P034,Nikos,Direct,9,21.54,0.0,11.52,60.0,0,Completed
+O1023,2025-11-11,C025,P021,Maria,Direct,13,19.64,0.05,12.3,30.0,0,Completed
+O1314,2025-03-13,C081,P010,Giorgos,Wholesale,10,25.35,0.05,17.87,30.0,3,Completed
+O1136,2025-10-17,C018,P025,Maria,Direct,10,15.87,0.07,11.07,45.0,0,Completed
+O1132,2025-09-05,C074,P030,Eleni,Wholesale,12,14.56,0.05,8.27,45.0,0,Completed
+O1568,2025-09-07,C049,P020,Maria,Wholesale,15,11.89,0.05,7.4,30.0,0,Completed
+O1580,2025-07-09,C074,P026,Maria,Wholesale,10,16.04,0.05,9.88,45.0,1,Partial return
+O1106,2025-04-16,C036,P008,Eleni,Wholesale,12,9.08,0.1,4.54,15.0,0,Completed
+O1214,2025-08-21,C068,P017,Nikos,Wholesale,7,17.04,0.0,8.37,30.0,0,Completed
+O1206,2025-11-29,C051,P013,Eleni,Wholesale,10,24.95,0.05,13.2,30.0,0,Pending
+O1049,2025-09-24,C048,P026,Eleni,Phone order,11,16.04,0.07,9.94,30.0,0,Completed
+O1343,2025-05-15,C060,P007,Maria,Wholesale,13,13.28,0.05,6.62,30.0,0,Completed
+O1502,2025-07-13,C079,P015,Eleni,Wholesale,15,21.66,0.03,11.22,30.0,0,Completed
+O1201,2025-02-09,C075,P014,Eleni,Wholesale,9,17.99,0.0,8.7,60.0,0,Completed
+O1426,2025-04-25,C059,P003,Giorgos,Wholesale,4,8.23,0.0,5.79,60.0,0,Completed
+O1026,2025-06-26,C070,P004,Giorgos,Direct,12,9.14,0.07,6.28,60.0,0,Completed
+O1519,2025-11-06,C017,P006,Nikos,Wholesale,7,12.05,0.0,8.91,60.0,0,Completed
+O1183,2025-03-13,C053,P002,Giorgos,Wholesale,5,8.02,0.0,5.29,60.0,0,Completed
+O1137,2025-02-09,C037,P026,Eleni,Wholesale,10,16.04,0.05,9.54,45.0,0,Completed
+O1499,2025-04-06,C034,P031,Maria,Wholesale,6,15.37,0.0,8.7,45.0,3,Completed
+O1026,2025-03-02,C045,P021,Maria,Wholesale,10,19.64,0.05,13.04,30.0,0,Completed
+O1525,2025-06-19,C073,P031,Nikos,Wholesale,12,15.37,0.03,8.53,30.0,0,Completed
+O1540,2025-09-03,C017,P022,Giorgos,Wholesale,12,15.11,0.05,10.13,45.0,0,Completed
+O1232,2025-03-24,C002,P027,Giorgos,Wholesale,8,19.42,0.02,14.05,30.0,0,Completed
+O1216,2025-01-23,C032,P036,Maria,Wholesale,7,19.47,0.02,11.22,30.0,0,Completed
+O1559,2025-03-24,C035,P012,Maria,Direct,13,19.45,0.05,13.87,30.0,0,Completed
+O1614,2025-01-21,C031,P001,Maria,Wholesale,5,14.99,0.0,10.69,45.0,0,Completed
+O1479,2025-05-13,C083,P008,Maria,Wholesale,16,9.08,0.05,4.54,60.0,0,Completed
+O1210,2025-07-27,C088,P011,Nikos,Phone order,11,16.3,0.03,11.44,45.0,0,Completed
+O1118,2025-12-05,C040,P016,Eleni,Phone order,13,19.23,0.05,9.46,60.0,0,Completed
+O1629,2025-04-21,C088,P024,Giorgos,Direct,13,16.87,0.08,10.45,60.0,0,Completed
+O1426,2025-08-30,C087,P017,Giorgos,Wholesale,17,17.04,0.05,8.41,15.0,0,Completed
+O1094,2025-07-30,C078,P035,Maria,Direct,5,21.37,0.0,12.51,60.0,0,Completed
+O1501,2025-04-04,C022,P004,Eleni,Wholesale,14,9.14,0.02,6.05,45.0,0,Completed
+O1389,2025-12-18,C037,P025,Eleni,Phone order,16,15.87,0.05,10.74,60.0,0,Completed
+O1151,2025-11-02,C080,P030,Nikos,Wholesale,9,14.56,0.0,8.25,60.0,0,Completed
+O1607,2025-07-17,C040,P016,Maria,Wholesale,9,19.23,0.0,10.02,30.0,0,Completed
+O1089,2025-04-14,C090,P022,Giorgos,Phone order,12,15.11,0.07,10.08,30.0,1,Completed
+O1328,2025-11-07,C041,P024,Nikos,Wholesale,11,16.87,0.1,10.73,30.0,0,Completed
+O1383,2025-11-11,C018,P016,Nikos,Phone order,13,19.23,0.07,10.07,30.0,0,Completed
+O1640,2025-09-30,C081,P035,Nikos,Wholesale,4,21.37,0.0,12.13,30.0,1,Partial return
+O1172,2025-12-04,C051,P036,Maria,Phone order,6,19.47,0.0,10.97,45.0,0,Completed
+O1395,2025-10-04,C032,P004,Nikos,Phone order,10,9.14,0.07,6.09,15.0,0,Completed
+O1138,2025-12-14,C063,P022,Giorgos,Wholesale,12,15.11,0.05,10.05,45.0,0,Completed
+O1545,2025-07-09,C049,P016,Nikos,Direct,6,19.23,0.0,10.03,30.0,0,Completed
+O1056,2025-08-08,C045,P020,Maria,Phone order,10,11.89,0.03,7.87,30.0,1,Partial return
+O1124,2025-09-04,C033,P016,Giorgos,Wholesale,8,19.23,0.02,9.71,30.0,0,Completed
+O1237,2025-12-23,C044,P002,Nikos,Wholesale,8,8.02,0.0,5.66,45.0,0,Completed
+O1150,2025-05-11,C025,P030,Giorgos,Direct,13,14.56,0.05,7.93,15.0,0,Completed
+O1595,2025-02-12,C009,P002,Eleni,Wholesale,8,8.02,0.0,5.31,45.0,3,Completed
+O1182,2025-10-06,C041,P034,Giorgos,Wholesale,10,21.54,0.08,11.22,45.0,0,Completed
+O1135,2025-01-03,C019,P016,Nikos,Wholesale,8,19.23,0.0,9.36,75.0,0,Completed
+O1525,2025-03-02,C025,P034,Nikos,Wholesale,6,21.54,0.0,11.16,30.0,0,Completed
+O1435,2025-04-16,C038,P002,Eleni,Wholesale,7,8.02,0.0,5.7,45.0,0,Completed
+O1485,2025-02-24,C085,P001,Maria,Wholesale,8,14.99,0.0,10.95,60.0,0,Completed
+O1247,2025-10-27,C057,P028,Eleni,Wholesale,15,20.02,0.02,10.33,45.0,0,Completed
+O1227,2025-10-02,C081,P033,Giorgos,Wholesale,8,17.67,0.0,9.86,45.0,0,Completed
+O1164,2025-11-10,C054,P031,Eleni,Phone order,9,15.37,0.02,8.69,60.0,0,Completed
+O1584,2025-07-23,C060,P008,Maria,Wholesale,8,9.08,0.0,4.87,45.0,0,Completed
+O1378,2025-10-13,C090,P028,Giorgos,Wholesale,16,20.02,0.08,10.11,45.0,0,Completed
+O1389,2025-10-14,C026,P001,Giorgos,Wholesale,8,14.99,0.0,10.44,30.0,0,Completed
+O1578,2025-06-07,C086,P034,Eleni,Direct,12,21.54,0.08,10.7,30.0,0,Completed
+O1380,2025-07-23,C016,P014,Maria,Phone order,7,17.99,0.02,8.71,45.0,1,Partial return
+O1302,2025-12-04,C005,P022,Nikos,Direct,12,15.11,0.03,9.81,45.0,0,Completed
+O1545,2025-08-17,C088,P030,Maria,Wholesale,10,14.56,0.08,7.94,30.0,0,Completed
+O1090,2025-09-18,C037,P001,Giorgos,Direct,9,14.99,0.0,10.38,45.0,0,Completed
+O1568,2025-10-09,C079,P017,Nikos,Wholesale,11,17.04,0.09,8.05,30.0,0,Completed
+O1063,2025-11-22,C006,P015,Nikos,Phone order,12,21.66,0.1,10.96,30.0,0,Completed
+O1277,2025-03-16,C027,P024,Giorgos,Phone order,9,16.87,0.0,10.27,15.0,0,Completed
+O1271,2025-08-11,C047,P013,Nikos,Wholesale,14,24.95,0.05,14.03,30.0,0,Completed
+O1285,2025-04-24,C058,P018,Eleni,Wholesale,16,15.39,0.05,10.19,45.0,0,Completed
+O1608,2025-01-20,C030,P028,Giorgos,Phone order,11,20.02,0.08,10.17,30.0,0,Completed
+O1028,2025-07-25,C053,P025,Eleni,Direct,9,15.87,0.01,10.94,75.0,0,Completed
+O1296,2025-11-02,C044,P018,Nikos,Phone order,10,15.39,0.06,10.79,60.0,0,Completed
+O1256,2025-03-31,C056,P003,Giorgos,Wholesale,13,8.23,0.07,5.77,30.0,0,Completed
+O1601,2025-04-14,C085,P019,Eleni,Wholesale,13,14.76,0.02,7.64,45.0,0,Completed
+O1374,2025-11-03,C067,P002,Maria,Direct,11,8.02,0.04,5.69,45.0,0,Completed
+O1126,2025-12-12,C034,P009,Nikos,Wholesale,10,9.54,0.03,6.26,45.0,0,Completed
+O1331,2025-12-02,C079,P001,Nikos,Phone order,8,14.99,0.02,10.78,45.0,0,Completed
+O1093,2025-02-14,C042,P008,Eleni,Direct,11,9.08,0.06,4.81,60.0,0,Completed
+O1499,2025-06-30,C030,P019,Giorgos,Wholesale,10,14.76,0.12,8.07,45.0,0,Completed
+O1518,2025-04-13,C021,P001,Nikos,Direct,9,14.99,0.0,10.24,60.0,0,Completed
+O1317,2025-02-05,C083,P003,Nikos,Wholesale,7,8.23,0.0,5.86,45.0,0,Completed
+O1469,2025-10-14,C069,P006,Eleni,Wholesale,7,12.05,0.0,8.61,45.0,0,Completed
+O1031,2025-05-22,C038,P020,Maria,Direct,7,11.89,0.0,7.3,30.0,0,Completed
+O1370,2025-04-10,C068,P024,Giorgos,Phone order,9,16.87,0.0,10.49,15.0,0,Completed
+O1116,2025-10-22,C043,P017,Nikos,Wholesale,9,17.04,,8.17,60.0,0,Completed
+O1303,2025-07-28,C014,P001,Nikos,Wholesale,10,14.99,0.07,10.8,45.0,0,Completed
+O1618,2025-09-15,C055,P004,Eleni,Wholesale,9,9.14,0.04,6.28,45.0,3,Completed
+O1101,2025-03-01,C051,P004,Eleni,Phone order,8,9.14,0.0,5.97,45.0,0,Completed
+O1637,2025-10-22,C074,P002,Eleni,Direct,8,8.02,0.04,5.62,60.0,2,Completed
+O1397,2025-07-13,C033,P006,Giorgos,Direct,10,12.05,0.07,8.35,60.0,0,Completed
+O1580,2025-06-23,C033,P024,Giorgos,Direct,7,16.87,0.02,10.37,60.0,0,Completed
+O1298,2025-10-28,C028,P030,Nikos,Wholesale,12,14.56,0.05,8.18,30.0,0,Completed
+O1170,2025-05-13,C061,P036,Nikos,Wholesale,7,19.47,0.02,11.07,15.0,0,Completed
+O1024,2025-04-23,C018,P022,Maria,Phone order,10,15.11,0.09,9.83,45.0,1,Completed
+O1551,2025-07-31,C023,P018,Eleni,Wholesale,10,15.39,0.05,11.0,45.0,0,Completed
+O1308,2025-01-05,C044,P036,Eleni,Wholesale,14,19.47,0.06,11.16,45.0,0,Completed
+O1487,2025-02-17,C002,P032,Giorgos,Direct,6,13.3,0.0,7.94,30.0,0,Completed
+O1547,2025-06-25,C073,P013,Nikos,Wholesale,6,24.95,0.0,13.62,15.0,0,Completed
+O1551,2025-04-02,C009,P013,Giorgos,Wholesale,13,24.95,0.05,13.87,60.0,0,Completed
+O1019,2025-04-22,C042,P004,Eleni,Wholesale,13,9.14,0.09,5.93,75.0,0,Completed
+O1283,2025-12-16,C038,P029,Maria,Wholesale,9,17.56,0.0,12.85,45.0,0,Completed
+O1467,2025-04-13,C035,P006,Maria,Direct,13,12.05,0.05,8.64,45.0,0,Completed
+O1308,2025-05-16,C033,P014,Maria,Wholesale,5,17.99,0.0,8.9,45.0,0,Completed
+O1210,2025-05-08,C075,P032,Eleni,Wholesale,13,13.3,0.04,7.8,60.0,0,Completed
+O1140,2025-02-24,C013,P008,Nikos,Phone order,9,9.08,0.0,4.78,30.0,0,Completed
+O1351,2025-12-13,C032,P017,Giorgos,Direct,15,17.04,0.05,8.04,30.0,0,Completed
+O1321,2025-10-05,C040,P036,Nikos,Phone order,7,19.47,0.0,10.96,45.0,0,Completed
+O1167,2025-07-10,C012,P009,Eleni,Wholesale,13,9.54,0.05,6.12,30.0,0,Completed
+O1467,2025-10-22,C081,P013,Eleni,Wholesale,9,24.95,0.0,13.7,45.0,0,Completed
+O1340,2025-09-19,C031,P013,Eleni,Wholesale,8,24.95,0.0,13.86,45.0,0,Completed
+O1229,2025-10-23,C009,P022,Maria,Wholesale,13,15.11,0.05,9.49,60.0,0,Completed
+O1115,2025-08-05,C032,P003,Giorgos,Phone order,11,8.23,0.09,6.06,30.0,0,Completed
+O1448,2025-01-17,C057,P028,Eleni,Wholesale,11,20.02,0.07,10.12,45.0,0,Completed
+O1495,2025-12-18,C040,P010,Maria,Wholesale,11,25.35,0.08,16.8,45.0,0,Completed
+O1209,2025-03-03,C009,P032,Giorgos,Wholesale,13,13.3,0.07,7.89,45.0,0,Completed
+O1035,2025-01-05,C018,P017,Nikos,Direct,5,17.04,0.04,8.65,30.0,0,Completed
+O1023,2025-07-14,C033,P024,Nikos,Wholesale,16,16.87,0.09,10.41,30.0,0,Completed
+O1541,2025-11-10,C006,P027,Eleni,Wholesale,15,19.42,0.07,13.64,15.0,0,Completed
+O1213,2025-05-15,C028,P025,Maria,Wholesale,12,15.87,0.05,11.04,15.0,0,Completed
+O1620,2025-11-10,C028,P024,Eleni,Wholesale,17,16.87,0.03,10.59,45.0,0,Completed
+O1125,2025-09-13,C033,P027,Giorgos,Wholesale,9,19.42,0.04,13.26,60.0,0,Completed
+O1568,2025-12-25,C055,P024,Eleni,Wholesale,13,16.87,0.09,10.69,30.0,1,Partial return
+O1247,2025-07-25,C039,P019,Eleni,Wholesale,11,14.76,0.06,7.85,45.0,0,Completed
+O1304,2025-10-20,C020,P026,Maria,Phone order,8,16.04,0.0,9.9,60.0,0,Completed
+O1008,2025-12-18,C053,P021,Maria,Phone order,11,19.64,0.06,12.67,60.0,0,Completed
+O1359,2025-05-19,C051,P027,Maria,Wholesale,11,19.42,0.05,13.52,45.0,0,Completed
+O1022,2025-07-15,C003,P031,Maria,Wholesale,13,15.37,0.03,8.69,45.0,0,Completed
+O1224,2025-03-18,C087,P010,Giorgos,Phone order,13,25.35,0.03,16.94,15.0,0,Completed
+O1239,2025-04-01,C057,P033,Giorgos,Wholesale,14,17.67,0.04,10.27,60.0,0,Completed
+O1422,2025-11-19,C086,P013,Eleni,Direct,14,24.95,0.03,13.78,45.0,0,Completed
+O1066,2025-06-03,C053,P009,Eleni,Wholesale,8,9.54,0.0,5.99,45.0,0,Completed
+O1495,2025-10-18,C035,P002,Nikos,Wholesale,11,8.02,0.05,5.38,60.0,0,Completed
+O1630,2025-12-20,C022,P002,Maria,Wholesale,10,8.02,0.09,5.46,45.0,0,Completed
+O1202,2025-05-11,C030,P031,Giorgos,Phone order,9,15.37,0.04,8.58,60.0,0,Completed
+O1453,2025-02-19,C068,P019,Giorgos,Direct,11,14.76,0.03,7.76,30.0,0,Completed
+O1545,2025-05-14,C088,P026,Eleni,Wholesale,8,16.04,0.0,9.72,45.0,0,Completed
+O1165,2025-10-13,C054,P030,Eleni,Wholesale,12,14.56,0.03,7.99,60.0,0,Completed
+O1087,2025-07-30,C032,P019,Nikos,Wholesale,13,14.76,0.05,7.66,45.0,0,Completed
+O1296,2025-12-14,C015,P022,Maria,Wholesale,15,15.11,0.1,9.47,30.0,0,Completed
+O1362,2025-11-29,C004,P024,Maria,Phone order,13,16.87,0.05,10.41,45.0,0,Completed
+O1535,2025-05-26,C004,P030,Eleni,Wholesale,6,14.56,0.0,8.3,30.0,0,Completed
+O1602,2025-09-19,C028,P010,Giorgos,Direct,13,25.35,0.12,17.28,15.0,0,Completed
+O1252,2025-08-17,C051,P033,Nikos,Wholesale,4,17.67,0.0,10.3,45.0,2,Completed
+O1212,2025-05-27,C016,P016,Giorgos,Direct,15,19.23,0.07,10.03,30.0,0,Completed
+O1565,2025-03-16,C016,P012,Maria,Direct,14,19.45,0.07,13.37,30.0,0,Completed
+O1564,2025-06-22,C028,P025,Giorgos,Direct,8,15.87,0.0,11.12,30.0,1,Partial return
+O1638,2025-10-20,C029,P022,Giorgos,Phone order,13,15.11,0.05,10.0,30.0,0,Completed
+O1631,2025-02-06,C003,P030,Nikos,Wholesale,15,14.56,0.08,7.95,45.0,0,Completed
+O1535,2025-04-27,C038,P024,Eleni,Wholesale,11,16.87,0.03,10.76,30.0,0,Completed
+O1525,2025-05-30,C067,P004,Eleni,Direct,8,9.14,0.0,6.33,45.0,0,Completed
+O1635,2025-07-22,C028,P036,Eleni,Phone order,16,19.47,0.07,11.3,30.0,0,Completed
+O1371,2025-07-05,C050,P027,Giorgos,Wholesale,9,19.42,0.0,13.32,45.0,0,Completed
+O1187,2025-04-05,C033,P025,Nikos,Wholesale,12,15.87,0.05,10.74,30.0,0,Completed
+O1016,2025-05-01,C028,P026,Eleni,Phone order,5,16.04,0.04,9.81,30.0,0,Completed
+O1179,2025-12-25,C032,P027,Nikos,Wholesale,10,19.42,,13.8,30.0,0,Completed
+O1425,2025-07-23,C005,P023,Nikos,Wholesale,8,16.26,0.0,10.54,45.0,0,Completed
+O1547,2025-08-31,C047,P012,Nikos,Wholesale,9,19.45,0.0,14.02,45.0,0,Completed
+O1309,2025-07-23,C063,P035,Nikos,Wholesale,7,21.37,0.0,12.99,60.0,0,Completed
+O1541,2025-11-13,C018,P011,Maria,Wholesale,9,16.3,0.02,11.33,30.0,0,Completed
+O1165,2025-07-19,C036,P027,Eleni,Wholesale,7,19.42,0.02,13.11,30.0,0,Completed
+O1352,2025-05-26,C028,P012,Giorgos,Direct,16,19.45,0.09,13.39,,0,Completed
+O1453,2025-03-09,C050,P027,Maria,Wholesale,11,19.42,0.03,13.99,60.0,0,Completed
+O1178,2025-12-06,C068,P020,Eleni,Phone order,18,11.89,0.08,7.53,45.0,0,Completed
+O1530,2025-06-16,C044,P007,Giorgos,Wholesale,9,13.28,0.03,6.73,60.0,0,Completed
+O1042,2025-10-04,C041,P020,Eleni,Wholesale,10,11.89,0.03,7.75,45.0,0,Completed
+O1108,2025-03-11,C089,P027,Maria,Wholesale,12,19.42,0.05,13.87,30.0,0,Completed
+O1099,2025-08-22,C041,P032,Giorgos,Wholesale,9,13.3,0.0,7.59,30.0,0,Completed
+O1201,2025-11-24,C011,P021,Eleni,Phone order,14,19.64,0.03,12.91,30.0,0,Completed
+O1209,2025-09-04,C064,P036,Maria,Phone order,10,19.47,0.05,11.27,30.0,0,Completed
+O1325,2025-08-15,C044,P007,Eleni,Wholesale,4,13.28,0.01,6.74,60.0,0,Completed
+O1416,2025-05-14,C071,P001,Maria,Wholesale,7,14.99,0.0,10.29,45.0,0,Completed
+O1015,2025-01-01,C022,P004,Maria,Wholesale,13,9.14,0.07,6.15,,2,Completed
+O1302,2025-08-29,C070,P003,Nikos,Direct,7,8.23,0.01,5.76,75.0,0,Completed
+O1303,2025-09-09,C045,P026,Giorgos,Wholesale,10,16.04,0.05,9.71,45.0,1,Partial return
+O1621,2025-08-09,C068,P036,Eleni,Wholesale,10,19.47,0.05,11.73,15.0,0,Completed
+O1341,2025-01-04,C084,P022,Eleni,Wholesale,7,15.11,0.0,9.95,45.0,0,Completed
+O1633,2025-10-15,C057,P013,Giorgos,Wholesale,8,24.95,0.0,13.88,75.0,0,Completed
+O1249,2025-03-25,C035,P030,Giorgos,Phone order,11,14.56,0.05,8.24,30.0,0,Completed
+O1460,2025-04-23,C086,P010,Eleni,Wholesale,11,25.35,0.08,17.5,45.0,0,Completed
+O1387,2025-11-17,C046,P013,Maria,Wholesale,22,24.95,0.05,13.42,30.0,0,Completed
+O1482,2025-11-10,C057,P028,Eleni,Wholesale,11,20.02,0.07,10.24,75.0,0,Pending
+O1641,2025-09-30,C029,P005,Eleni,Wholesale,16,9.46,0.03,4.62,30.0,0,Completed
+O1095,2025-02-05,C015,P015,Maria,Wholesale,12,21.66,0.03,11.05,30.0,0,Completed
+O1088,2025-02-26,C054,P019,Giorgos,Direct,9,14.76,0.04,7.67,30.0,3,Completed
+O1377,2025-05-20,C033,P004,Giorgos,Wholesale,13,9.14,0.05,6.2,60.0,0,Completed
+O1610,2025-01-10,C016,P002,Maria,Wholesale,10,8.02,0.07,5.43,30.0,0,Completed
+O1549,2025-10-01,C087,P022,Nikos,Wholesale,5,15.11,0.02,9.89,30.0,0,Completed
+O1309,2025-02-22,C015,P034,Eleni,Wholesale,11,21.54,0.12,10.73,45.0,1,Partial return
+O1537,2025-08-13,C085,P010,Nikos,Wholesale,14,25.35,0.09,17.58,60.0,0,Completed
+O1404,2025-03-19,C062,P008,Nikos,Wholesale,10,9.08,0.03,4.63,45.0,0,Completed
+O1624,2025-06-25,C064,P001,Giorgos,Wholesale,8,14.99,0.0,10.51,15.0,0,Completed
+O1241,2025-09-13,C039,P020,Eleni,Wholesale,5,11.89,0.0,7.32,45.0,0,Completed
+O1488,2025-01-17,C052,P009,Eleni,Wholesale,6,9.54,0.02,5.98,45.0,0,Completed
+O1440,2025-03-16,C006,P005,Nikos,Wholesale,12,9.46,0.03,4.83,15.0,0,Completed
+O1014,2025-07-20,C012,P034,Nikos,Wholesale,9,21.54,0.0,10.7,45.0,0,Completed
+O1136,2025-04-03,C032,P021,Maria,Phone order,6,19.64,0.02,12.46,30.0,0,Completed
+O1027,2025-05-09,C002,P012,Giorgos,Phone order,10,19.45,0.07,14.29,45.0,0,Completed
+O1002,2025-12-23,C074,P027,Maria,Wholesale,9,19.42,0.02,13.57,45.0,0,Completed
+O1081,2025-09-06,C072,P035,Eleni,Phone order,7,21.37,0.0,12.35,30.0,1,Partial return
+O1466,2025-10-16,C072,P009,Nikos,Direct,15,9.54,0.03,5.9,45.0,0,Completed
+O1447,2025-06-03,C038,P002,Maria,Wholesale,9,8.02,0.0,5.54,45.0,0,Completed
+O1524,2025-03-07,C073,P012,Nikos,Wholesale,9,19.45,0.0,14.32,30.0,0,Completed
+O1518,2025-04-13,C021,P001,Nikos,Direct,9,14.99,0.0,10.24,60.0,0,Completed
+O1052,2025-08-05,C023,P001,Eleni,Wholesale,6,14.99,0.04,10.68,45.0,0,Completed
+O1583,2025-06-13,C019,P011,Eleni,Direct,6,16.3,0.01,11.37,45.0,0,Completed
+O1208,2025-11-17,C025,P027,Eleni,Direct,12,19.42,0.03,13.26,15.0,0,Completed
+O1455,2025-05-14,C087,P015,Giorgos,Wholesale,10,21.66,0.07,11.35,30.0,0,Pending
